@@ -14,7 +14,7 @@
     <name>weetris</name>
     <language>perl</language>
     <tags>game</tags>
-    <url>https://weechat.org/files/scripts/weetris.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weetris.pl</url>
     <popularity>0</popularity>
     <updated>2011-03-01 15:05:17</updated>
     <version>0.9</version>
@@ -39,7 +39,7 @@
     <name>awaylog</name>
     <language>perl</language>
     <tags>irc,away,log</tags>
-    <url>https://weechat.org/files/scripts/awaylog.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/awaylog.pl</url>
     <popularity>0</popularity>
     <updated>2010-08-01 12:36:15</updated>
     <version>0.8</version>
@@ -64,7 +64,7 @@
     <name>buffers</name>
     <language>perl</language>
     <tags>buffer</tags>
-    <url>https://weechat.org/files/scripts/buffers.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/buffers.pl</url>
     <popularity>0</popularity>
     <updated>2017-03-18 16:32:13</updated>
     <version>5.6</version>
@@ -89,7 +89,7 @@
     <name>crypt</name>
     <language>python</language>
     <tags>irc,crypto</tags>
-    <url>https://weechat.org/files/scripts/crypt.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/crypt.py</url>
     <popularity>0</popularity>
     <updated>2014-05-01 07:13:27</updated>
     <version>1.4.4</version>
@@ -114,7 +114,7 @@
     <name>go</name>
     <language>python</language>
     <tags>buffer,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/go.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/go.py</url>
     <popularity>10</popularity>
     <updated>2017-04-01 13:56:26</updated>
     <version>2.5</version>
@@ -139,7 +139,7 @@
     <name>iset</name>
     <language>perl</language>
     <tags>settings</tags>
-    <url>https://weechat.org/files/scripts/iset.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/iset.pl</url>
     <popularity>0</popularity>
     <updated>2017-04-25 22:20:07</updated>
     <version>4.3</version>
@@ -164,7 +164,7 @@
     <name>launcher</name>
     <language>perl</language>
     <tags>exec</tags>
-    <url>https://weechat.org/files/scripts/launcher.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/launcher.pl</url>
     <popularity>0</popularity>
     <updated>2017-09-09 20:46:34</updated>
     <version>0.7</version>
@@ -189,7 +189,7 @@
     <name>mastermind</name>
     <language>perl</language>
     <tags>game</tags>
-    <url>https://weechat.org/files/scripts/mastermind.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mastermind.pl</url>
     <popularity>0</popularity>
     <updated>2009-06-21 14:15:02</updated>
     <version>0.3</version>
@@ -214,7 +214,7 @@
     <name>moc</name>
     <language>perl</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/moc.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/moc.pl</url>
     <popularity>0</popularity>
     <updated>2009-06-20 10:52:47</updated>
     <version>0.5</version>
@@ -239,7 +239,7 @@
     <name>mpdnp</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/mpdnp.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mpdnp.py</url>
     <popularity>0</popularity>
     <updated>2009-05-02 16:16:37</updated>
     <version>0.5</version>
@@ -264,7 +264,7 @@
     <name>pagetitle</name>
     <language>python</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/pagetitle.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/pagetitle.py</url>
     <popularity>0</popularity>
     <updated>2009-05-02 16:16:37</updated>
     <version>0.5</version>
@@ -289,7 +289,7 @@
     <name>sound</name>
     <language>perl</language>
     <tags>irc,ctcp,sound</tags>
-    <url>https://weechat.org/files/scripts/sound.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/sound.pl</url>
     <popularity>0</popularity>
     <updated>2009-05-02 16:16:37</updated>
     <version>0.7</version>
@@ -314,7 +314,7 @@
     <name>tinyurl</name>
     <language>python</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/tinyurl.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/tinyurl.py</url>
     <popularity>0</popularity>
     <updated>2009-12-13 00:20:44</updated>
     <version>3.8</version>
@@ -339,7 +339,7 @@
     <name>url_shorten</name>
     <language>ruby</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/url_shorten.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/url_shorten.rb</url>
     <popularity>0</popularity>
     <updated>2013-08-10 08:23:00</updated>
     <version>1.9.0</version>
@@ -364,7 +364,7 @@
     <name>vdm</name>
     <language>python</language>
     <tags>info,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/vdm.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/vdm.py</url>
     <popularity>0</popularity>
     <updated>2012-12-03 18:28:08</updated>
     <version>1.3</version>
@@ -389,7 +389,7 @@
     <name>whois_on_query</name>
     <language>python</language>
     <tags>irc,whois,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/whois_on_query.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/whois_on_query.py</url>
     <popularity>0</popularity>
     <updated>2017-06-03 18:31:43</updated>
     <version>0.6.1</version>
@@ -414,7 +414,7 @@
     <name>weeget</name>
     <language>python</language>
     <tags>scripts,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/weeget.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weeget.py</url>
     <popularity>0</popularity>
     <updated>2013-03-06 16:49:23</updated>
     <version>2.0</version>
@@ -439,7 +439,7 @@
     <name>quodnp</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/quodnp.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/quodnp.py</url>
     <popularity>0</popularity>
     <updated>2009-05-02 16:16:37</updated>
     <version>0.5</version>
@@ -464,7 +464,7 @@
     <name>notify</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/notify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/notify.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:21:39</updated>
     <version>0.0.8</version>
@@ -489,7 +489,7 @@
     <name>chan_hl</name>
     <language>tcl</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/chan_hl.tcl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/chan_hl.tcl</url>
     <popularity>0</popularity>
     <updated>2009-05-02 16:16:37</updated>
     <version>0.2</version>
@@ -514,7 +514,7 @@
     <name>growl_net_notify</name>
     <language>perl</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/growl_net_notify.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/growl_net_notify.pl</url>
     <popularity>0</popularity>
     <updated>2009-05-02 16:16:37</updated>
     <version>0.5</version>
@@ -539,7 +539,7 @@
     <name>audacious</name>
     <language>perl</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/audacious.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/audacious.pl</url>
     <popularity>0</popularity>
     <updated>2009-05-03 00:05:42</updated>
     <version>0.3</version>
@@ -564,7 +564,7 @@
     <name>fortune</name>
     <language>perl</language>
     <tags>fortune</tags>
-    <url>https://weechat.org/files/scripts/fortune.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/fortune.pl</url>
     <popularity>0</popularity>
     <updated>2009-05-03 00:06:34</updated>
     <version>0.2</version>
@@ -589,7 +589,7 @@
     <name>kernel</name>
     <language>perl</language>
     <tags>info</tags>
-    <url>https://weechat.org/files/scripts/kernel.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/kernel.pl</url>
     <popularity>0</popularity>
     <updated>2011-03-01 16:09:13</updated>
     <version>0.4</version>
@@ -614,7 +614,7 @@
     <name>shuffle</name>
     <language>perl</language>
     <tags>input</tags>
-    <url>https://weechat.org/files/scripts/shuffle.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/shuffle.pl</url>
     <popularity>0</popularity>
     <updated>2009-05-03 00:06:51</updated>
     <version>0.1</version>
@@ -639,7 +639,7 @@
     <name>kbtimeout</name>
     <language>python</language>
     <tags>irc,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/kbtimeout.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/kbtimeout.py</url>
     <popularity>0</popularity>
     <updated>2018-07-29 10:48:55</updated>
     <version>0.2</version>
@@ -664,7 +664,7 @@
     <name>title</name>
     <language>python</language>
     <tags>terminal,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/title.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/title.py</url>
     <popularity>0</popularity>
     <updated>2017-07-14 13:46:22</updated>
     <version>0.9</version>
@@ -689,7 +689,7 @@
     <name>chanact</name>
     <language>python</language>
     <tags>notify,item</tags>
-    <url>https://weechat.org/files/scripts/chanact.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/chanact.py</url>
     <popularity>0</popularity>
     <updated>2013-09-21 11:36:14</updated>
     <version>0.8</version>
@@ -714,7 +714,7 @@
     <name>urlbar</name>
     <language>python</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/urlbar.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/urlbar.py</url>
     <popularity>0</popularity>
     <updated>2015-12-01 22:24:27</updated>
     <version>12</version>
@@ -739,7 +739,7 @@
     <name>urlgrab</name>
     <language>python</language>
     <tags>url,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/urlgrab.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/urlgrab.py</url>
     <popularity>0</popularity>
     <updated>2018-05-11 14:26:06</updated>
     <version>3.0</version>
@@ -764,7 +764,7 @@
     <name>chanmon</name>
     <language>perl</language>
     <tags>irc,buffer</tags>
-    <url>https://weechat.org/files/scripts/chanmon.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/chanmon.pl</url>
     <popularity>0</popularity>
     <updated>2014-08-17 14:25:10</updated>
     <version>2.5</version>
@@ -789,7 +789,7 @@
     <name>bufsave</name>
     <language>python</language>
     <tags>log,buffer,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/bufsave.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/bufsave.py</url>
     <popularity>0</popularity>
     <updated>2018-11-11 15:13:08</updated>
     <version>0.4</version>
@@ -814,7 +814,7 @@
     <name>histsearch</name>
     <language>python</language>
     <tags>history</tags>
-    <url>https://weechat.org/files/scripts/histsearch.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/histsearch.py</url>
     <popularity>0</popularity>
     <updated>2016-02-21 18:29:36</updated>
     <version>0.3</version>
@@ -839,7 +839,7 @@
     <name>weempd</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/weempd.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weempd.py</url>
     <popularity>0</popularity>
     <updated>2010-06-22 14:42:51</updated>
     <version>0.1.1</version>
@@ -864,7 +864,7 @@
     <name>kiloseconds</name>
     <language>python</language>
     <tags>item,time</tags>
-    <url>https://weechat.org/files/scripts/kiloseconds.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/kiloseconds.py</url>
     <popularity>0</popularity>
     <updated>2009-06-18 15:46:45</updated>
     <version>0.1</version>
@@ -889,7 +889,7 @@
     <name>autojoin</name>
     <language>python</language>
     <tags>irc,autojoin,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/autojoin.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/autojoin.py</url>
     <popularity>0</popularity>
     <updated>2018-08-10 08:02:55</updated>
     <version>0.3.0</version>
@@ -914,7 +914,7 @@
     <name>toggle_nicklist</name>
     <language>python</language>
     <tags>nicklist,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/toggle_nicklist.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/toggle_nicklist.py</url>
     <popularity>0</popularity>
     <updated>2012-01-03 19:57:55</updated>
     <version>0.7</version>
@@ -939,7 +939,7 @@
     <name>rslap</name>
     <language>perl</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/rslap.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/rslap.pl</url>
     <popularity>0</popularity>
     <updated>2011-01-01 11:03:04</updated>
     <version>1.3.1</version>
@@ -964,7 +964,7 @@
     <name>identica</name>
     <language>python</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/identica.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/identica.py</url>
     <popularity>0</popularity>
     <updated>2011-01-20 17:05:48</updated>
     <version>0.4.2</version>
@@ -989,7 +989,7 @@
     <name>highmon</name>
     <language>perl</language>
     <tags>irc,highlight</tags>
-    <url>https://weechat.org/files/scripts/highmon.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/highmon.pl</url>
     <popularity>40</popularity>
     <updated>2014-08-17 14:25:26</updated>
     <version>2.5</version>
@@ -1014,7 +1014,7 @@
     <name>grep</name>
     <language>python</language>
     <tags>buffer,log,search</tags>
-    <url>https://weechat.org/files/scripts/grep.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/grep.py</url>
     <popularity>0</popularity>
     <updated>2018-04-10 21:34:56</updated>
     <version>0.8.1</version>
@@ -1039,7 +1039,7 @@
     <name>country</name>
     <language>python</language>
     <tags>irc,ip,whois,whowas</tags>
-    <url>https://weechat.org/files/scripts/country.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/country.py</url>
     <popularity>0</popularity>
     <updated>2013-05-01 13:21:00</updated>
     <version>0.6</version>
@@ -1064,7 +1064,7 @@
     <name>moc_control</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/moc_control.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/moc_control.py</url>
     <popularity>0</popularity>
     <updated>2009-10-26 21:18:11</updated>
     <version>1.7.3</version>
@@ -1089,7 +1089,7 @@
     <name>mpdspam</name>
     <language>ruby</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/mpdspam.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mpdspam.rb</url>
     <popularity>0</popularity>
     <updated>2009-09-15 10:44:37</updated>
     <version>1.0</version>
@@ -1114,7 +1114,7 @@
     <name>jnotify</name>
     <language>perl</language>
     <tags>irc,exec,notify</tags>
-    <url>https://weechat.org/files/scripts/jnotify.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/jnotify.pl</url>
     <popularity>0</popularity>
     <updated>2012-04-16 13:26:15</updated>
     <version>1.1</version>
@@ -1139,7 +1139,7 @@
     <name>highlightxmpp</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/highlightxmpp.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/highlightxmpp.py</url>
     <popularity>0</popularity>
     <updated>2015-12-31 10:52:38</updated>
     <version>0.5</version>
@@ -1164,7 +1164,7 @@
     <name>myuptime</name>
     <language>ruby</language>
     <tags>info</tags>
-    <url>https://weechat.org/files/scripts/myuptime.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/myuptime.rb</url>
     <popularity>0</popularity>
     <updated>2009-09-16 10:28:37</updated>
     <version>0.2</version>
@@ -1189,7 +1189,7 @@
     <name>spotify</name>
     <language>python</language>
     <tags>info</tags>
-    <url>https://weechat.org/files/scripts/spotify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/spotify.py</url>
     <popularity>0</popularity>
     <updated>2017-10-28 08:37:01</updated>
     <version>0.9</version>
@@ -1214,7 +1214,7 @@
     <name>hlpvitem</name>
     <language>python</language>
     <tags>highlight,item,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/hlpvitem.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/hlpvitem.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:11:06</updated>
     <version>0.3</version>
@@ -1239,7 +1239,7 @@
     <name>rhythmbox</name>
     <language>perl</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/rhythmbox.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/rhythmbox.pl</url>
     <popularity>0</popularity>
     <updated>2009-11-09 12:24:24</updated>
     <version>0.5</version>
@@ -1264,7 +1264,7 @@
     <name>gnotify</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/gnotify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/gnotify.py</url>
     <popularity>0</popularity>
     <updated>2009-10-14 09:45:13</updated>
     <version>0.2</version>
@@ -1289,7 +1289,7 @@
     <name>amarok2</name>
     <language>perl</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/amarok2.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/amarok2.pl</url>
     <popularity>0</popularity>
     <updated>2012-05-08 08:14:15</updated>
     <version>0.7</version>
@@ -1314,7 +1314,7 @@
     <name>volumeter</name>
     <language>perl</language>
     <tags>info,item</tags>
-    <url>https://weechat.org/files/scripts/volumeter.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/volumeter.pl</url>
     <popularity>0</popularity>
     <updated>2009-10-15 11:36:58</updated>
     <version>0.2</version>
@@ -1339,7 +1339,7 @@
     <name>kikoo</name>
     <language>perl</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/kikoo.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/kikoo.pl</url>
     <popularity>0</popularity>
     <updated>2009-10-15 11:26:01</updated>
     <version>0.2</version>
@@ -1364,7 +1364,7 @@
     <name>bandwidth</name>
     <language>python</language>
     <tags>info,item</tags>
-    <url>https://weechat.org/files/scripts/bandwidth.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/bandwidth.py</url>
     <popularity>0</popularity>
     <updated>2011-12-09 10:13:01</updated>
     <version>1.0</version>
@@ -1389,7 +1389,7 @@
     <name>translate</name>
     <language>python</language>
     <tags>translate,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/translate.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/translate.py</url>
     <popularity>0</popularity>
     <updated>2013-11-28 13:31:28</updated>
     <version>0.7</version>
@@ -1414,7 +1414,7 @@
     <name>stats_bar</name>
     <language>perl</language>
     <tags>info,item</tags>
-    <url>https://weechat.org/files/scripts/stats_bar.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/stats_bar.pl</url>
     <popularity>0</popularity>
     <updated>2018-07-29 09:45:09</updated>
     <version>1.2</version>
@@ -1439,7 +1439,7 @@
     <name>nickregain</name>
     <language>perl</language>
     <tags>irc,nick</tags>
-    <url>https://weechat.org/files/scripts/nickregain.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/nickregain.pl</url>
     <popularity>0</popularity>
     <updated>2010-12-13 22:36:00</updated>
     <version>1.1.1</version>
@@ -1464,7 +1464,7 @@
     <name>text_replace</name>
     <language>python</language>
     <tags>input</tags>
-    <url>https://weechat.org/files/scripts/text_replace.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/text_replace.py</url>
     <popularity>0</popularity>
     <updated>2011-07-17 12:13:09</updated>
     <version>0.5</version>
@@ -1489,7 +1489,7 @@
     <name>autojoin_on_invite</name>
     <language>python</language>
     <tags>irc,invite,autojoin,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/autojoin_on_invite.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/autojoin_on_invite.py</url>
     <popularity>0</popularity>
     <updated>2018-11-11 15:37:41</updated>
     <version>0.7</version>
@@ -1514,7 +1514,7 @@
     <name>chanop</name>
     <language>python</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/chanop.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/chanop.py</url>
     <popularity>0</popularity>
     <updated>2013-06-01 08:47:47</updated>
     <version>0.3.1</version>
@@ -1539,7 +1539,7 @@
     <name>dellog</name>
     <language>perl</language>
     <tags>log</tags>
-    <url>https://weechat.org/files/scripts/dellog.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/dellog.pl</url>
     <popularity>0</popularity>
     <updated>2010-06-02 08:35:02</updated>
     <version>0.2</version>
@@ -1564,7 +1564,7 @@
     <name>imap_status</name>
     <language>python</language>
     <tags>mail,item,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/imap_status.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/imap_status.py</url>
     <popularity>0</popularity>
     <updated>2019-01-26 14:06:49</updated>
     <version>0.9</version>
@@ -1589,7 +1589,7 @@
     <name>yaaa</name>
     <language>perl</language>
     <tags>away</tags>
-    <url>https://weechat.org/files/scripts/yaaa.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/yaaa.pl</url>
     <popularity>0</popularity>
     <updated>2009-11-18 09:42:31</updated>
     <version>0.3</version>
@@ -1614,7 +1614,7 @@
     <name>screen_away</name>
     <language>python</language>
     <tags>away,screen,tmux,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/screen_away.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/screen_away.py</url>
     <popularity>0</popularity>
     <updated>2017-11-23 22:40:12</updated>
     <version>0.15</version>
@@ -1639,7 +1639,7 @@
     <name>infolist</name>
     <language>python</language>
     <tags>debug,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/infolist.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/infolist.py</url>
     <popularity>0</popularity>
     <updated>2018-04-10 21:35:47</updated>
     <version>0.7</version>
@@ -1664,7 +1664,7 @@
     <name>buffer_autoclose</name>
     <language>python</language>
     <tags>buffer,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/buffer_autoclose.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/buffer_autoclose.py</url>
     <popularity>0</popularity>
     <updated>2018-04-10 21:32:46</updated>
     <version>0.5</version>
@@ -1689,7 +1689,7 @@
     <name>hotlist2extern</name>
     <language>perl</language>
     <tags>hotlist</tags>
-    <url>https://weechat.org/files/scripts/hotlist2extern.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/hotlist2extern.pl</url>
     <popularity>0</popularity>
     <updated>2018-02-14 22:11:19</updated>
     <version>0.9</version>
@@ -1714,7 +1714,7 @@
     <name>buddylist</name>
     <language>perl</language>
     <tags>nicklist</tags>
-    <url>https://weechat.org/files/scripts/buddylist.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/buddylist.pl</url>
     <popularity>0</popularity>
     <updated>2018-03-06 21:54:39</updated>
     <version>1.9</version>
@@ -1739,7 +1739,7 @@
     <name>announce_url_title</name>
     <language>python</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/announce_url_title.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/announce_url_title.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:04:06</updated>
     <version>18</version>
@@ -1764,7 +1764,7 @@
     <name>rnotify</name>
     <language>tcl</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/rnotify.tcl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/rnotify.tcl</url>
     <popularity>0</popularity>
     <updated>2015-12-31 10:46:28</updated>
     <version>1.4</version>
@@ -1789,7 +1789,7 @@
     <name>strmon</name>
     <language>perl</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/strmon.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/strmon.pl</url>
     <popularity>0</popularity>
     <updated>2017-10-28 08:45:25</updated>
     <version>0.5.4</version>
@@ -1814,7 +1814,7 @@
     <name>query_blocker</name>
     <language>perl</language>
     <tags>irc,query,spam</tags>
-    <url>https://weechat.org/files/scripts/query_blocker.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/query_blocker.pl</url>
     <popularity>0</popularity>
     <updated>2018-08-02 22:03:06</updated>
     <version>1.2</version>
@@ -1839,7 +1839,7 @@
     <name>nameday</name>
     <language>python</language>
     <tags>info,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/nameday.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/nameday.py</url>
     <popularity>0</popularity>
     <updated>2012-02-02 18:57:08</updated>
     <version>1.3</version>
@@ -1864,7 +1864,7 @@
     <name>shortenurl</name>
     <language>python</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/shortenurl.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/shortenurl.py</url>
     <popularity>0</popularity>
     <updated>2018-11-11 20:51:19</updated>
     <version>0.6.3</version>
@@ -1889,7 +1889,7 @@
     <name>uppercase</name>
     <language>python</language>
     <tags>input</tags>
-    <url>https://weechat.org/files/scripts/uppercase.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/uppercase.py</url>
     <popularity>0</popularity>
     <updated>2013-10-22 17:33:11</updated>
     <version>0.2</version>
@@ -1914,7 +1914,7 @@
     <name>upside_down</name>
     <language>python</language>
     <tags>input</tags>
-    <url>https://weechat.org/files/scripts/upside_down.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/upside_down.py</url>
     <popularity>0</popularity>
     <updated>2010-01-19 13:48:29</updated>
     <version>0.3</version>
@@ -1939,7 +1939,7 @@
     <name>newsbar</name>
     <language>perl</language>
     <tags>highlight,news</tags>
-    <url>https://weechat.org/files/scripts/newsbar.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/newsbar.pl</url>
     <popularity>0</popularity>
     <updated>2014-11-02 11:35:39</updated>
     <version>0.18</version>
@@ -1964,7 +1964,7 @@
     <name>filter_ext</name>
     <language>perl</language>
     <tags>filter,spam</tags>
-    <url>https://weechat.org/files/scripts/filter_ext.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/filter_ext.pl</url>
     <popularity>0</popularity>
     <updated>2011-09-17 21:14:29</updated>
     <version>0.04</version>
@@ -1989,7 +1989,7 @@
     <name>foo_spam</name>
     <language>perl</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/foo_spam.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/foo_spam.pl</url>
     <popularity>0</popularity>
     <updated>2010-01-27 23:05:38</updated>
     <version>0.6.1</version>
@@ -2014,7 +2014,7 @@
     <name>completion</name>
     <language>python</language>
     <tags>completion</tags>
-    <url>https://weechat.org/files/scripts/completion.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/completion.py</url>
     <popularity>0</popularity>
     <updated>2010-05-19 15:41:45</updated>
     <version>0.2</version>
@@ -2039,7 +2039,7 @@
     <name>alternatetz</name>
     <language>python</language>
     <tags>item,time,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/alternatetz.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/alternatetz.py</url>
     <popularity>0</popularity>
     <updated>2018-11-11 15:53:42</updated>
     <version>0.3</version>
@@ -2064,7 +2064,7 @@
     <name>weerock</name>
     <language>perl</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/weerock.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weerock.pl</url>
     <popularity>0</popularity>
     <updated>2010-08-26 15:50:20</updated>
     <version>0.3</version>
@@ -2089,7 +2089,7 @@
     <name>mplex</name>
     <language>perl</language>
     <tags>away,screen,tmux</tags>
-    <url>https://weechat.org/files/scripts/mplex.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mplex.pl</url>
     <popularity>0</popularity>
     <updated>2010-02-04 19:20:33</updated>
     <version>0.03</version>
@@ -2114,7 +2114,7 @@
     <name>snarl_net_notify</name>
     <language>perl</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/snarl_net_notify.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/snarl_net_notify.pl</url>
     <popularity>0</popularity>
     <updated>2010-02-13 09:05:01</updated>
     <version>0.6.1</version>
@@ -2139,7 +2139,7 @@
     <name>dcc_antispam</name>
     <language>python</language>
     <tags>dcc,spam,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/dcc_antispam.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/dcc_antispam.py</url>
     <popularity>0</popularity>
     <updated>2012-01-03 19:41:58</updated>
     <version>0.2</version>
@@ -2164,7 +2164,7 @@
     <name>auto_away</name>
     <language>python</language>
     <tags>away,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/auto_away.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/auto_away.py</url>
     <popularity>0</popularity>
     <updated>2018-11-11 15:25:21</updated>
     <version>0.4</version>
@@ -2189,7 +2189,7 @@
     <name>im_rename</name>
     <language>python</language>
     <tags>minbif,facebook,google+</tags>
-    <url>https://weechat.org/files/scripts/im_rename.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/im_rename.py</url>
     <popularity>0</popularity>
     <updated>2014-10-04 17:55:37</updated>
     <version>1.2</version>
@@ -2214,7 +2214,7 @@
     <name>beat</name>
     <language>perl</language>
     <tags>item,time</tags>
-    <url>https://weechat.org/files/scripts/beat.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/beat.pl</url>
     <popularity>0</popularity>
     <updated>2010-05-09 10:23:00</updated>
     <version>0.2</version>
@@ -2239,7 +2239,7 @@
     <name>inotify</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/inotify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/inotify.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:12:56</updated>
     <version>0.1.4</version>
@@ -2264,7 +2264,7 @@
     <name>typing_counter</name>
     <language>python</language>
     <tags>input,item</tags>
-    <url>https://weechat.org/files/scripts/typing_counter.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/typing_counter.py</url>
     <popularity>0</popularity>
     <updated>2018-11-04 16:38:57</updated>
     <version>1.0</version>
@@ -2289,7 +2289,7 @@
     <name>colorize_nicks</name>
     <language>python</language>
     <tags>irc,color,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/colorize_nicks.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/colorize_nicks.py</url>
     <popularity>30</popularity>
     <updated>2018-04-07 07:53:37</updated>
     <version>26</version>
@@ -2314,7 +2314,7 @@
     <name>away_action</name>
     <language>python</language>
     <tags>away</tags>
-    <url>https://weechat.org/files/scripts/away_action.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/away_action.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:07:52</updated>
     <version>0.5</version>
@@ -2339,7 +2339,7 @@
     <name>ubus</name>
     <language>perl</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/ubus.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/ubus.pl</url>
     <popularity>0</popularity>
     <updated>2011-02-14 09:37:54</updated>
     <version>0.2</version>
@@ -2364,7 +2364,7 @@
     <name>buffer_autoset</name>
     <language>python</language>
     <tags>buffer,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/buffer_autoset.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/buffer_autoset.py</url>
     <popularity>0</popularity>
     <updated>2018-04-15 10:27:26</updated>
     <version>1.1</version>
@@ -2389,7 +2389,7 @@
     <name>postpone</name>
     <language>python</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/postpone.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/postpone.py</url>
     <popularity>0</popularity>
     <updated>2015-07-25 08:47:10</updated>
     <version>0.2.3</version>
@@ -2414,7 +2414,7 @@
     <name>bitlbee_typing_notice</name>
     <language>python</language>
     <tags>bitlbee,notice</tags>
-    <url>https://weechat.org/files/scripts/bitlbee_typing_notice.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/bitlbee_typing_notice.py</url>
     <popularity>0</popularity>
     <updated>2014-02-16 18:31:29</updated>
     <version>0.5</version>
@@ -2439,7 +2439,7 @@
     <name>minbif_typing_notice</name>
     <language>ruby</language>
     <tags>minbif,notice</tags>
-    <url>https://weechat.org/files/scripts/minbif_typing_notice.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/minbif_typing_notice.rb</url>
     <popularity>0</popularity>
     <updated>2010-11-14 21:33:08</updated>
     <version>1.0.1</version>
@@ -2464,7 +2464,7 @@
     <name>colorize_lines</name>
     <language>perl</language>
     <tags>irc,color</tags>
-    <url>https://weechat.org/files/scripts/colorize_lines.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/colorize_lines.pl</url>
     <popularity>0</popularity>
     <updated>2018-06-16 19:54:49</updated>
     <version>3.6</version>
@@ -2489,7 +2489,7 @@
     <name>prism</name>
     <language>python</language>
     <tags>color</tags>
-    <url>https://weechat.org/files/scripts/prism.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/prism.py</url>
     <popularity>0</popularity>
     <updated>2017-07-02 16:48:50</updated>
     <version>0.2.11</version>
@@ -2514,7 +2514,7 @@
     <name>curiousignore</name>
     <language>perl</language>
     <tags>ignore</tags>
-    <url>https://weechat.org/files/scripts/curiousignore.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/curiousignore.pl</url>
     <popularity>0</popularity>
     <updated>2013-10-22 15:44:58</updated>
     <version>0.3</version>
@@ -2539,7 +2539,7 @@
     <name>chanstat</name>
     <language>python</language>
     <tags>irc,channel,stats</tags>
-    <url>https://weechat.org/files/scripts/chanstat.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/chanstat.py</url>
     <popularity>0</popularity>
     <updated>2010-06-09 08:29:06</updated>
     <version>0.1</version>
@@ -2564,7 +2564,7 @@
     <name>lastfm</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/lastfm.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/lastfm.py</url>
     <popularity>0</popularity>
     <updated>2016-01-30 08:05:26</updated>
     <version>0.7</version>
@@ -2589,7 +2589,7 @@
     <name>notifo_notify</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/notifo_notify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/notifo_notify.py</url>
     <popularity>0</popularity>
     <updated>2010-07-05 10:21:25</updated>
     <version>1.0</version>
@@ -2614,7 +2614,7 @@
     <name>cron</name>
     <language>python</language>
     <tags>cron,time,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/cron.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/cron.py</url>
     <popularity>0</popularity>
     <updated>2012-01-03 19:40:39</updated>
     <version>0.4</version>
@@ -2639,7 +2639,7 @@
     <name>ichatts</name>
     <language>python</language>
     <tags>time</tags>
-    <url>https://weechat.org/files/scripts/ichatts.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/ichatts.py</url>
     <popularity>0</popularity>
     <updated>2010-07-28 09:36:55</updated>
     <version>1.0</version>
@@ -2664,7 +2664,7 @@
     <name>zerotab</name>
     <language>python</language>
     <tags>completion,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/zerotab.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/zerotab.py</url>
     <popularity>0</popularity>
     <updated>2013-01-29 17:35:31</updated>
     <version>1.5</version>
@@ -2689,7 +2689,7 @@
     <name>jabber</name>
     <language>python</language>
     <tags>jabber,xmpp,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/jabber.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/jabber.py</url>
     <popularity>0</popularity>
     <updated>2013-10-03 21:55:26</updated>
     <version>1.6</version>
@@ -2714,7 +2714,7 @@
     <name>wmiibar</name>
     <language>perl</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/wmiibar.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/wmiibar.pl</url>
     <popularity>0</popularity>
     <updated>2011-01-18 08:36:16</updated>
     <version>0.3</version>
@@ -2739,7 +2739,7 @@
     <name>weefish</name>
     <language>ruby</language>
     <tags>irc,crypto,fish</tags>
-    <url>https://weechat.org/files/scripts/weefish.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weefish.rb</url>
     <popularity>0</popularity>
     <updated>2012-02-08 19:50:01</updated>
     <version>0.4</version>
@@ -2764,7 +2764,7 @@
     <name>lnotify</name>
     <language>python</language>
     <tags>irc,notify,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/lnotify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/lnotify.py</url>
     <popularity>0</popularity>
     <updated>2018-10-25 22:24:35</updated>
     <version>0.3.3</version>
@@ -2789,7 +2789,7 @@
     <name>windicate</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/windicate.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/windicate.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:26:18</updated>
     <version>0.0.4</version>
@@ -2814,7 +2814,7 @@
     <name>xosdnotify</name>
     <language>tcl</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/xosdnotify.tcl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/xosdnotify.tcl</url>
     <popularity>0</popularity>
     <updated>2013-04-14 19:35:40</updated>
     <version>0.2</version>
@@ -2839,7 +2839,7 @@
     <name>text_effects</name>
     <language>lua</language>
     <tags>text</tags>
-    <url>https://weechat.org/files/scripts/text_effects.lua</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/text_effects.lua</url>
     <popularity>0</popularity>
     <updated>2012-03-09 23:29:30</updated>
     <version>1.1</version>
@@ -2864,7 +2864,7 @@
     <name>sensors</name>
     <language>python</language>
     <tags>info</tags>
-    <url>https://weechat.org/files/scripts/sensors.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/sensors.py</url>
     <popularity>0</popularity>
     <updated>2010-10-06 21:15:31</updated>
     <version>1.0</version>
@@ -2889,7 +2889,7 @@
     <name>snotify</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/snotify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/snotify.py</url>
     <popularity>0</popularity>
     <updated>2010-11-18 17:45:41</updated>
     <version>0.1.3</version>
@@ -2914,7 +2914,7 @@
     <name>update_notifier</name>
     <language>python</language>
     <tags>update</tags>
-    <url>https://weechat.org/files/scripts/update_notifier.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/update_notifier.py</url>
     <popularity>0</popularity>
     <updated>2017-05-01 09:00:24</updated>
     <version>0.5</version>
@@ -2939,7 +2939,7 @@
     <name>confversion</name>
     <language>python</language>
     <tags>config</tags>
-    <url>https://weechat.org/files/scripts/confversion.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/confversion.py</url>
     <popularity>0</popularity>
     <updated>2013-06-01 08:36:33</updated>
     <version>0.2</version>
@@ -2964,7 +2964,7 @@
     <name>thinklight_blink</name>
     <language>perl</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/thinklight_blink.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/thinklight_blink.pl</url>
     <popularity>0</popularity>
     <updated>2011-04-24 09:26:42</updated>
     <version>0.3</version>
@@ -2989,7 +2989,7 @@
     <name>pybuffer</name>
     <language>python</language>
     <tags>debug,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/pybuffer.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/pybuffer.py</url>
     <popularity>0</popularity>
     <updated>2018-11-11 15:34:42</updated>
     <version>0.3</version>
@@ -3014,7 +3014,7 @@
     <name>msg_command</name>
     <language>python</language>
     <tags>command</tags>
-    <url>https://weechat.org/files/scripts/msg_command.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/msg_command.py</url>
     <popularity>0</popularity>
     <updated>2010-11-08 17:27:32</updated>
     <version>0.2</version>
@@ -3039,7 +3039,7 @@
     <name>tailer</name>
     <language>python</language>
     <tags>file</tags>
-    <url>https://weechat.org/files/scripts/tailer.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/tailer.py</url>
     <popularity>0</popularity>
     <updated>2010-11-08 17:29:43</updated>
     <version>0.1</version>
@@ -3064,7 +3064,7 @@
     <name>whatismyip</name>
     <language>python</language>
     <tags>ip</tags>
-    <url>https://weechat.org/files/scripts/whatismyip.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/whatismyip.py</url>
     <popularity>0</popularity>
     <updated>2012-11-18 09:39:49</updated>
     <version>0.2</version>
@@ -3089,7 +3089,7 @@
     <name>xfer_setip</name>
     <language>python</language>
     <tags>xfer,ip</tags>
-    <url>https://weechat.org/files/scripts/xfer_setip.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/xfer_setip.py</url>
     <popularity>0</popularity>
     <updated>2015-04-26 13:35:26</updated>
     <version>0.4</version>
@@ -3114,7 +3114,7 @@
     <name>automode</name>
     <language>python</language>
     <tags>irc,mode</tags>
-    <url>https://weechat.org/files/scripts/automode.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/automode.py</url>
     <popularity>0</popularity>
     <updated>2016-06-29 07:52:10</updated>
     <version>0.1.3</version>
@@ -3139,7 +3139,7 @@
     <name>pop3_mail</name>
     <language>perl</language>
     <tags>mail</tags>
-    <url>https://weechat.org/files/scripts/pop3_mail.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/pop3_mail.pl</url>
     <popularity>0</popularity>
     <updated>2013-09-21 11:31:16</updated>
     <version>0.3</version>
@@ -3164,7 +3164,7 @@
     <name>bashorg</name>
     <language>perl</language>
     <tags>quote</tags>
-    <url>https://weechat.org/files/scripts/bashorg.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/bashorg.pl</url>
     <popularity>0</popularity>
     <updated>2011-01-04 22:03:48</updated>
     <version>0.2</version>
@@ -3189,7 +3189,7 @@
     <name>expand_url</name>
     <language>perl</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/expand_url.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/expand_url.pl</url>
     <popularity>0</popularity>
     <updated>2019-01-19 19:47:58</updated>
     <version>0.7</version>
@@ -3214,7 +3214,7 @@
     <name>leet</name>
     <language>python</language>
     <tags>input</tags>
-    <url>https://weechat.org/files/scripts/leet.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/leet.py</url>
     <popularity>0</popularity>
     <updated>2011-01-04 22:42:52</updated>
     <version>0.1</version>
@@ -3239,7 +3239,7 @@
     <name>queue</name>
     <language>python</language>
     <tags>command</tags>
-    <url>https://weechat.org/files/scripts/queue.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/queue.py</url>
     <popularity>0</popularity>
     <updated>2016-03-25 14:35:43</updated>
     <version>0.4.2</version>
@@ -3264,7 +3264,7 @@
     <name>amqp_notify</name>
     <language>ruby</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/amqp_notify.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/amqp_notify.rb</url>
     <popularity>0</popularity>
     <updated>2011-01-12 10:53:46</updated>
     <version>0.1</version>
@@ -3289,7 +3289,7 @@
     <name>weather</name>
     <language>python</language>
     <tags>weather</tags>
-    <url>https://weechat.org/files/scripts/weather.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weather.py</url>
     <popularity>0</popularity>
     <updated>2011-09-21 17:57:12</updated>
     <version>0.2</version>
@@ -3314,7 +3314,7 @@
     <name>topicdiff</name>
     <language>python</language>
     <tags>irc,topic</tags>
-    <url>https://weechat.org/files/scripts/topicdiff.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/topicdiff.py</url>
     <popularity>0</popularity>
     <updated>2016-11-05 11:27:56</updated>
     <version>0.3</version>
@@ -3339,7 +3339,7 @@
     <name>clemenshow</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/clemenshow.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/clemenshow.py</url>
     <popularity>0</popularity>
     <updated>2011-08-28 10:57:40</updated>
     <version>1.0</version>
@@ -3364,7 +3364,7 @@
     <name>xmms2</name>
     <language>ruby</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/xmms2.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/xmms2.rb</url>
     <popularity>0</popularity>
     <updated>2011-02-13 12:48:58</updated>
     <version>0.2</version>
@@ -3389,7 +3389,7 @@
     <name>purgelogs</name>
     <language>python</language>
     <tags>log,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/purgelogs.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/purgelogs.py</url>
     <popularity>0</popularity>
     <updated>2013-01-29 17:32:25</updated>
     <version>0.4</version>
@@ -3414,7 +3414,7 @@
     <name>correction_completion</name>
     <language>python</language>
     <tags>completion</tags>
-    <url>https://weechat.org/files/scripts/correction_completion.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/correction_completion.py</url>
     <popularity>0</popularity>
     <updated>2012-10-18 18:01:21</updated>
     <version>0.3.0</version>
@@ -3439,7 +3439,7 @@
     <name>hilites</name>
     <language>ruby</language>
     <tags>highlight</tags>
-    <url>https://weechat.org/files/scripts/hilites.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/hilites.rb</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:27:10</updated>
     <version>0.2</version>
@@ -3464,7 +3464,7 @@
     <name>menu</name>
     <language>perl</language>
     <tags>menu</tags>
-    <url>https://weechat.org/files/scripts/menu.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/menu.pl</url>
     <popularity>0</popularity>
     <updated>2013-10-03 15:01:47</updated>
     <version>0.9</version>
@@ -3489,7 +3489,7 @@
     <name>mpc</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/mpc.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mpc.py</url>
     <popularity>0</popularity>
     <updated>2013-01-03 22:20:28</updated>
     <version>0.3</version>
@@ -3514,7 +3514,7 @@
     <name>fileaway</name>
     <language>python</language>
     <tags>file,away</tags>
-    <url>https://weechat.org/files/scripts/fileaway.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/fileaway.py</url>
     <popularity>0</popularity>
     <updated>2011-06-17 08:23:00</updated>
     <version>1.0.2</version>
@@ -3539,7 +3539,7 @@
     <name>input_lock</name>
     <language>ruby</language>
     <tags>input,lock</tags>
-    <url>https://weechat.org/files/scripts/input_lock.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/input_lock.rb</url>
     <popularity>0</popularity>
     <updated>2011-04-25 12:33:55</updated>
     <version>0.1</version>
@@ -3564,7 +3564,7 @@
     <name>sort_buffers</name>
     <language>perl</language>
     <tags>irc,buffer</tags>
-    <url>https://weechat.org/files/scripts/sort_buffers.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/sort_buffers.pl</url>
     <popularity>0</popularity>
     <updated>2013-11-24 15:00:44</updated>
     <version>0.4</version>
@@ -3589,7 +3589,7 @@
     <name>seeks</name>
     <language>perl</language>
     <tags>seeks</tags>
-    <url>https://weechat.org/files/scripts/seeks.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/seeks.pl</url>
     <popularity>0</popularity>
     <updated>2012-01-29 12:00:54</updated>
     <version>0.3</version>
@@ -3614,7 +3614,7 @@
     <name>cmd_help</name>
     <language>python</language>
     <tags>help,input,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/cmd_help.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/cmd_help.py</url>
     <popularity>0</popularity>
     <updated>2018-04-10 21:33:59</updated>
     <version>0.5</version>
@@ -3639,7 +3639,7 @@
     <name>listsort</name>
     <language>perl</language>
     <tags>irc,list</tags>
-    <url>https://weechat.org/files/scripts/listsort.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/listsort.pl</url>
     <popularity>0</popularity>
     <updated>2011-07-08 21:01:36</updated>
     <version>0.1</version>
@@ -3664,7 +3664,7 @@
     <name>autoconnect</name>
     <language>python</language>
     <tags>irc,autojoin</tags>
-    <url>https://weechat.org/files/scripts/autoconnect.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/autoconnect.py</url>
     <popularity>0</popularity>
     <updated>2017-06-05 21:48:29</updated>
     <version>0.3.2</version>
@@ -3689,7 +3689,7 @@
     <name>urlbuf</name>
     <language>python</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/urlbuf.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/urlbuf.py</url>
     <popularity>0</popularity>
     <updated>2014-10-04 18:05:13</updated>
     <version>0.2</version>
@@ -3714,7 +3714,7 @@
     <name>sysinfo</name>
     <language>perl</language>
     <tags>info</tags>
-    <url>https://weechat.org/files/scripts/sysinfo.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/sysinfo.pl</url>
     <popularity>0</popularity>
     <updated>2016-03-25 09:40:00</updated>
     <version>1.0</version>
@@ -3739,7 +3739,7 @@
     <name>spotify_nowplaying</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/spotify_nowplaying.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/spotify_nowplaying.py</url>
     <popularity>0</popularity>
     <updated>2011-08-28 12:48:43</updated>
     <version>0.1.1</version>
@@ -3764,7 +3764,7 @@
     <name>kickban</name>
     <language>perl</language>
     <tags>irc,kick,ban</tags>
-    <url>https://weechat.org/files/scripts/kickban.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/kickban.pl</url>
     <popularity>0</popularity>
     <updated>2014-03-24 16:55:47</updated>
     <version>0.3</version>
@@ -3789,7 +3789,7 @@
     <name>perlexec</name>
     <language>perl</language>
     <tags>perl,exec</tags>
-    <url>https://weechat.org/files/scripts/perlexec.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/perlexec.pl</url>
     <popularity>0</popularity>
     <updated>2011-07-08 21:13:21</updated>
     <version>0.1</version>
@@ -3814,7 +3814,7 @@
     <name>ragefaces</name>
     <language>perl</language>
     <tags>ragefaces</tags>
-    <url>https://weechat.org/files/scripts/ragefaces.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/ragefaces.pl</url>
     <popularity>0</popularity>
     <updated>2011-07-13 12:19:38</updated>
     <version>1.0</version>
@@ -3839,7 +3839,7 @@
     <name>mpris_np</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/mpris_np.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mpris_np.py</url>
     <popularity>0</popularity>
     <updated>2011-09-17 09:11:46</updated>
     <version>0.3</version>
@@ -3864,7 +3864,7 @@
     <name>chanpriority</name>
     <language>python</language>
     <tags>irc,channel</tags>
-    <url>https://weechat.org/files/scripts/chanpriority.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/chanpriority.py</url>
     <popularity>0</popularity>
     <updated>2012-01-04 08:41:10</updated>
     <version>0.5</version>
@@ -3889,7 +3889,7 @@
     <name>floodit</name>
     <language>python</language>
     <tags>game,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/floodit.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/floodit.py</url>
     <popularity>0</popularity>
     <updated>2012-01-03 19:43:19</updated>
     <version>0.4</version>
@@ -3914,7 +3914,7 @@
     <name>notifo</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/notifo.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/notifo.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:20:45</updated>
     <version>0.2</version>
@@ -3939,7 +3939,7 @@
     <name>unset_unused</name>
     <language>perl</language>
     <tags>settings</tags>
-    <url>https://weechat.org/files/scripts/unset_unused.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/unset_unused.pl</url>
     <popularity>0</popularity>
     <updated>2018-06-01 20:55:28</updated>
     <version>0.4</version>
@@ -3964,7 +3964,7 @@
     <name>ncmpcpp</name>
     <language>perl</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/ncmpcpp.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/ncmpcpp.pl</url>
     <popularity>0</popularity>
     <updated>2011-08-28 22:33:51</updated>
     <version>0.2</version>
@@ -3989,7 +3989,7 @@
     <name>arespond</name>
     <language>python</language>
     <tags>reply</tags>
-    <url>https://weechat.org/files/scripts/arespond.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/arespond.py</url>
     <popularity>0</popularity>
     <updated>2011-08-28 22:48:07</updated>
     <version>0.1.0</version>
@@ -4014,7 +4014,7 @@
     <name>weenetsoul</name>
     <language>python</language>
     <tags>netsoul</tags>
-    <url>https://weechat.org/files/scripts/weenetsoul.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weenetsoul.py</url>
     <popularity>0</popularity>
     <updated>2014-10-30 22:44:32</updated>
     <version>1.3</version>
@@ -4039,7 +4039,7 @@
     <name>topicsed</name>
     <language>perl</language>
     <tags>irc,topic</tags>
-    <url>https://weechat.org/files/scripts/topicsed.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/topicsed.pl</url>
     <popularity>0</popularity>
     <updated>2011-09-17 18:11:33</updated>
     <version>0.1</version>
@@ -4064,7 +4064,7 @@
     <name>listbuffer</name>
     <language>python</language>
     <tags>irc,list</tags>
-    <url>https://weechat.org/files/scripts/listbuffer.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/listbuffer.py</url>
     <popularity>0</popularity>
     <updated>2013-03-22 20:10:53</updated>
     <version>0.8.1</version>
@@ -4089,7 +4089,7 @@
     <name>xclip</name>
     <language>perl</language>
     <tags>clipboard</tags>
-    <url>https://weechat.org/files/scripts/xclip.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/xclip.pl</url>
     <popularity>0</popularity>
     <updated>2011-09-26 11:40:31</updated>
     <version>0.2</version>
@@ -4114,7 +4114,7 @@
     <name>nma</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/nma.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/nma.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:18:35</updated>
     <version>1.0.7</version>
@@ -4139,7 +4139,7 @@
     <name>clone_scanner</name>
     <language>python</language>
     <tags>irc,clone</tags>
-    <url>https://weechat.org/files/scripts/clone_scanner.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/clone_scanner.py</url>
     <popularity>0</popularity>
     <updated>2015-03-07 20:59:15</updated>
     <version>1.4</version>
@@ -4164,7 +4164,7 @@
     <name>autoauth</name>
     <language>python</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/autoauth.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/autoauth.py</url>
     <popularity>0</popularity>
     <updated>2016-10-29 08:23:46</updated>
     <version>1.1</version>
@@ -4189,7 +4189,7 @@
     <name>growl</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/growl.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/growl.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:08:39</updated>
     <version>1.0.6</version>
@@ -4214,7 +4214,7 @@
     <name>infos</name>
     <language>python</language>
     <tags>debug,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/infos.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/infos.py</url>
     <popularity>0</popularity>
     <updated>2013-01-06 20:13:00</updated>
     <version>0.2</version>
@@ -4239,7 +4239,7 @@
     <name>minesweeper</name>
     <language>python</language>
     <tags>game,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/minesweeper.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/minesweeper.py</url>
     <popularity>0</popularity>
     <updated>2012-01-03 19:54:03</updated>
     <version>0.6</version>
@@ -4264,7 +4264,7 @@
     <name>isgd</name>
     <language>perl</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/isgd.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/isgd.pl</url>
     <popularity>0</popularity>
     <updated>2014-04-02 09:27:06</updated>
     <version>0.9</version>
@@ -4289,7 +4289,7 @@
     <name>slock_away</name>
     <language>python</language>
     <tags>away</tags>
-    <url>https://weechat.org/files/scripts/slock_away.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/slock_away.py</url>
     <popularity>0</popularity>
     <updated>2011-10-14 15:21:57</updated>
     <version>0.1</version>
@@ -4314,7 +4314,7 @@
     <name>sshnotify</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/sshnotify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/sshnotify.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:23:51</updated>
     <version>0.2.3</version>
@@ -4339,7 +4339,7 @@
     <name>urlserver</name>
     <language>python</language>
     <tags>url,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/urlserver.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/urlserver.py</url>
     <popularity>20</popularity>
     <updated>2018-09-30 17:36:26</updated>
     <version>2.3</version>
@@ -4364,7 +4364,7 @@
     <name>gntp_notify</name>
     <language>ruby</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/gntp_notify.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/gntp_notify.rb</url>
     <popularity>0</popularity>
     <updated>2012-02-08 19:54:34</updated>
     <version>1.1</version>
@@ -4389,7 +4389,7 @@
     <name>zmq_notify</name>
     <language>ruby</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/zmq_notify.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/zmq_notify.rb</url>
     <popularity>0</popularity>
     <updated>2011-11-15 11:31:19</updated>
     <version>0.1</version>
@@ -4414,7 +4414,7 @@
     <name>snake</name>
     <language>perl</language>
     <tags>game</tags>
-    <url>https://weechat.org/files/scripts/snake.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/snake.pl</url>
     <popularity>0</popularity>
     <updated>2011-12-25 22:06:47</updated>
     <version>0.1</version>
@@ -4439,7 +4439,7 @@
     <name>memon</name>
     <language>python</language>
     <tags>notify,memo</tags>
-    <url>https://weechat.org/files/scripts/memon.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/memon.py</url>
     <popularity>0</popularity>
     <updated>2012-01-14 19:55:12</updated>
     <version>0.3</version>
@@ -4464,7 +4464,7 @@
     <name>im_kayac_com_notify</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/im_kayac_com_notify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/im_kayac_com_notify.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:12:07</updated>
     <version>1.3</version>
@@ -4489,7 +4489,7 @@
     <name>bufsize</name>
     <language>python</language>
     <tags>buffer,item,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/bufsize.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/bufsize.py</url>
     <popularity>0</popularity>
     <updated>2017-08-20 22:43:13</updated>
     <version>0.8</version>
@@ -4514,7 +4514,7 @@
     <name>logsize</name>
     <language>python</language>
     <tags>log,item</tags>
-    <url>https://weechat.org/files/scripts/logsize.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/logsize.py</url>
     <popularity>0</popularity>
     <updated>2013-01-07 22:48:28</updated>
     <version>0.3</version>
@@ -4539,7 +4539,7 @@
     <name>hl_nicks</name>
     <language>python</language>
     <tags>highlight</tags>
-    <url>https://weechat.org/files/scripts/hl_nicks.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/hl_nicks.py</url>
     <popularity>0</popularity>
     <updated>2012-01-22 20:38:55</updated>
     <version>0.1.1</version>
@@ -4564,7 +4564,7 @@
     <name>customize_bar</name>
     <language>python</language>
     <tags>bar,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/customize_bar.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/customize_bar.py</url>
     <popularity>0</popularity>
     <updated>2018-06-08 20:33:08</updated>
     <version>0.2</version>
@@ -4589,7 +4589,7 @@
     <name>twmn_notify</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/twmn_notify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/twmn_notify.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:24:34</updated>
     <version>0.1.3</version>
@@ -4614,7 +4614,7 @@
     <name>server_autoswitch</name>
     <language>python</language>
     <tags>irc,server,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/server_autoswitch.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/server_autoswitch.py</url>
     <popularity>0</popularity>
     <updated>2013-01-29 17:33:39</updated>
     <version>0.4</version>
@@ -4639,7 +4639,7 @@
     <name>quick_force_color</name>
     <language>python</language>
     <tags>irc,nick,color,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/quick_force_color.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/quick_force_color.py</url>
     <popularity>0</popularity>
     <updated>2017-08-27 14:29:47</updated>
     <version>0.6.1</version>
@@ -4664,7 +4664,7 @@
     <name>keepnick</name>
     <language>python</language>
     <tags>irc,nick,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/keepnick.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/keepnick.py</url>
     <popularity>0</popularity>
     <updated>2017-10-28 09:28:14</updated>
     <version>1.6</version>
@@ -4689,7 +4689,7 @@
     <name>recoverop</name>
     <language>perl</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/recoverop.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/recoverop.pl</url>
     <popularity>0</popularity>
     <updated>2012-05-24 14:28:19</updated>
     <version>0.1.1</version>
@@ -4714,7 +4714,7 @@
     <name>yaurls</name>
     <language>perl</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/yaurls.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/yaurls.pl</url>
     <popularity>0</popularity>
     <updated>2012-09-22 09:30:37</updated>
     <version>1.9</version>
@@ -4739,7 +4739,7 @@
     <name>rhythmbus</name>
     <language>perl</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/rhythmbus.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/rhythmbus.pl</url>
     <popularity>0</popularity>
     <updated>2012-03-06 12:28:01</updated>
     <version>1.0</version>
@@ -4764,7 +4764,7 @@
     <name>dcc_send_relay</name>
     <language>ruby</language>
     <tags>irc,dcc</tags>
-    <url>https://weechat.org/files/scripts/dcc_send_relay.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/dcc_send_relay.rb</url>
     <popularity>0</popularity>
     <updated>2012-03-10 11:44:14</updated>
     <version>0.0.1</version>
@@ -4789,7 +4789,7 @@
     <name>unwanted_msg</name>
     <language>python</language>
     <tags>command,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/unwanted_msg.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/unwanted_msg.py</url>
     <popularity>0</popularity>
     <updated>2018-06-07 21:40:24</updated>
     <version>0.2</version>
@@ -4814,7 +4814,7 @@
     <name>hl2file</name>
     <language>python</language>
     <tags>highlight</tags>
-    <url>https://weechat.org/files/scripts/hl2file.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/hl2file.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:09:42</updated>
     <version>0.2</version>
@@ -4839,7 +4839,7 @@
     <name>samegame</name>
     <language>python</language>
     <tags>game,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/samegame.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/samegame.py</url>
     <popularity>0</popularity>
     <updated>2012-03-16 19:35:37</updated>
     <version>0.2</version>
@@ -4864,7 +4864,7 @@
     <name>fish</name>
     <language>python</language>
     <tags>irc,crypto,fish,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/fish.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/fish.py</url>
     <popularity>0</popularity>
     <updated>2018-11-11 15:49:15</updated>
     <version>0.9.3</version>
@@ -4889,7 +4889,7 @@
     <name>weestats</name>
     <language>python</language>
     <tags>stats</tags>
-    <url>https://weechat.org/files/scripts/weestats.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weestats.py</url>
     <popularity>0</popularity>
     <updated>2016-04-11 21:10:46</updated>
     <version>0.3</version>
@@ -4914,7 +4914,7 @@
     <name>gntpnotify</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/gntpnotify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/gntpnotify.py</url>
     <popularity>0</popularity>
     <updated>2012-04-13 09:34:24</updated>
     <version>0.2</version>
@@ -4939,7 +4939,7 @@
     <name>chatters</name>
     <language>perl</language>
     <tags>irc,item</tags>
-    <url>https://weechat.org/files/scripts/chatters.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/chatters.pl</url>
     <popularity>0</popularity>
     <updated>2013-02-10 22:23:52</updated>
     <version>0.4</version>
@@ -4964,7 +4964,7 @@
     <name>otr</name>
     <language>python</language>
     <tags>irc,crypto,otr,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/otr.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/otr.py</url>
     <popularity>0</popularity>
     <updated>2018-03-27 21:22:00</updated>
     <version>1.9.2</version>
@@ -4989,7 +4989,7 @@
     <name>pyrnotify</name>
     <language>python</language>
     <tags>notify,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/pyrnotify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/pyrnotify.py</url>
     <popularity>0</popularity>
     <updated>2018-11-11 15:17:04</updated>
     <version>1.1</version>
@@ -5014,7 +5014,7 @@
     <name>itunes</name>
     <language>ruby</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/itunes.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/itunes.rb</url>
     <popularity>0</popularity>
     <updated>2012-07-30 17:47:48</updated>
     <version>1.0</version>
@@ -5039,7 +5039,7 @@
     <name>wtwitter</name>
     <language>python</language>
     <tags>twitter</tags>
-    <url>https://weechat.org/files/scripts/wtwitter.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/wtwitter.py</url>
     <popularity>0</popularity>
     <updated>2013-05-01 15:55:31</updated>
     <version>0.2</version>
@@ -5064,7 +5064,7 @@
     <name>mpdbitl</name>
     <language>lua</language>
     <tags>bitlbee,music</tags>
-    <url>https://weechat.org/files/scripts/mpdbitl.lua</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mpdbitl.lua</url>
     <popularity>0</popularity>
     <updated>2012-10-13 16:00:25</updated>
     <version>1.2</version>
@@ -5089,7 +5089,7 @@
     <name>apply_corrections</name>
     <language>python</language>
     <tags>correction,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/apply_corrections.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/apply_corrections.py</url>
     <popularity>0</popularity>
     <updated>2018-06-21 22:08:46</updated>
     <version>1.3</version>
@@ -5114,7 +5114,7 @@
     <name>mplayer</name>
     <language>python</language>
     <tags>video</tags>
-    <url>https://weechat.org/files/scripts/mplayer.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mplayer.py</url>
     <popularity>0</popularity>
     <updated>2012-09-23 09:03:18</updated>
     <version>0.1</version>
@@ -5139,7 +5139,7 @@
     <name>notification_center</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/notification_center.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/notification_center.py</url>
     <popularity>0</popularity>
     <updated>2016-02-28 19:06:59</updated>
     <version>1.3.0</version>
@@ -5164,7 +5164,7 @@
     <name>anotify</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/anotify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/anotify.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:05:25</updated>
     <version>1.0.1</version>
@@ -5189,7 +5189,7 @@
     <name>maildir</name>
     <language>perl</language>
     <tags>mail,item</tags>
-    <url>https://weechat.org/files/scripts/maildir.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/maildir.pl</url>
     <popularity>0</popularity>
     <updated>2012-11-26 12:16:39</updated>
     <version>1.1</version>
@@ -5214,7 +5214,7 @@
     <name>coords</name>
     <language>perl</language>
     <tags>url,mouse</tags>
-    <url>https://weechat.org/files/scripts/coords.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/coords.pl</url>
     <popularity>0</popularity>
     <updated>2018-09-18 21:35:37</updated>
     <version>0.7.3.2</version>
@@ -5239,7 +5239,7 @@
     <name>join2fast</name>
     <language>perl</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/join2fast.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/join2fast.pl</url>
     <popularity>0</popularity>
     <updated>2013-07-27 16:09:02</updated>
     <version>0.8.1</version>
@@ -5264,7 +5264,7 @@
     <name>prowl_notify</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/prowl_notify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/prowl_notify.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:22:21</updated>
     <version>3.1</version>
@@ -5289,7 +5289,7 @@
     <name>noirccolors</name>
     <language>python</language>
     <tags>irc,color</tags>
-    <url>https://weechat.org/files/scripts/noirccolors.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/noirccolors.py</url>
     <popularity>0</popularity>
     <updated>2017-12-14 08:04:52</updated>
     <version>0.3</version>
@@ -5314,7 +5314,7 @@
     <name>irssinotifier</name>
     <language>python</language>
     <tags>irssi,notify,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/irssinotifier.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/irssinotifier.py</url>
     <popularity>0</popularity>
     <updated>2018-11-11 15:22:08</updated>
     <version>0.9</version>
@@ -5339,7 +5339,7 @@
     <name>parse_relayed_msg</name>
     <language>perl</language>
     <tags>irc,nicklist</tags>
-    <url>https://weechat.org/files/scripts/parse_relayed_msg.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/parse_relayed_msg.pl</url>
     <popularity>0</popularity>
     <updated>2016-04-10 09:11:19</updated>
     <version>1.9.1</version>
@@ -5364,7 +5364,7 @@
     <name>rssagg</name>
     <language>perl</language>
     <tags>feed,rss,item</tags>
-    <url>https://weechat.org/files/scripts/rssagg.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/rssagg.pl</url>
     <popularity>0</popularity>
     <updated>2013-04-14 21:57:06</updated>
     <version>1.1</version>
@@ -5389,7 +5389,7 @@
     <name>xterm_paste</name>
     <language>perl</language>
     <tags>clipboard</tags>
-    <url>https://weechat.org/files/scripts/xterm_paste.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/xterm_paste.pl</url>
     <popularity>0</popularity>
     <updated>2012-11-26 11:34:27</updated>
     <version>0.1</version>
@@ -5414,7 +5414,7 @@
     <name>multiline</name>
     <language>perl</language>
     <tags>input</tags>
-    <url>https://weechat.org/files/scripts/multiline.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/multiline.pl</url>
     <popularity>0</popularity>
     <updated>2016-01-02 09:52:25</updated>
     <version>0.6.3</version>
@@ -5439,7 +5439,7 @@
     <name>biditext</name>
     <language>python</language>
     <tags>display,rtl</tags>
-    <url>https://weechat.org/files/scripts/biditext.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/biditext.py</url>
     <popularity>0</popularity>
     <updated>2012-12-04 18:58:05</updated>
     <version>1</version>
@@ -5464,7 +5464,7 @@
     <name>histman</name>
     <language>python</language>
     <tags>history,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/histman.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/histman.py</url>
     <popularity>0</popularity>
     <updated>2018-08-07 23:32:22</updated>
     <version>0.8</version>
@@ -5489,7 +5489,7 @@
     <name>text_item</name>
     <language>python</language>
     <tags>item,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/text_item.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/text_item.py</url>
     <popularity>0</popularity>
     <updated>2018-08-18 09:54:27</updated>
     <version>0.8</version>
@@ -5514,7 +5514,7 @@
     <name>toggle_highlight</name>
     <language>python</language>
     <tags>highlight</tags>
-    <url>https://weechat.org/files/scripts/toggle_highlight.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/toggle_highlight.py</url>
     <popularity>0</popularity>
     <updated>2013-01-07 19:50:06</updated>
     <version>0.2</version>
@@ -5539,7 +5539,7 @@
     <name>spell_menu</name>
     <language>perl</language>
     <tags>spell</tags>
-    <url>https://weechat.org/files/scripts/spell_menu.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/spell_menu.pl</url>
     <popularity>0</popularity>
     <updated>2019-02-19 21:28:20</updated>
     <version>0.5</version>
@@ -5564,7 +5564,7 @@
     <name>color_popup</name>
     <language>perl</language>
     <tags>irc,color</tags>
-    <url>https://weechat.org/files/scripts/color_popup.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/color_popup.pl</url>
     <popularity>0</popularity>
     <updated>2015-12-13 11:49:36</updated>
     <version>0.4</version>
@@ -5589,7 +5589,7 @@
     <name>spell_correction</name>
     <language>python</language>
     <tags>spell,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/spell_correction.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/spell_correction.py</url>
     <popularity>0</popularity>
     <updated>2019-03-01 22:19:44</updated>
     <version>0.9</version>
@@ -5614,7 +5614,7 @@
     <name>format_lines</name>
     <language>perl</language>
     <tags>display</tags>
-    <url>https://weechat.org/files/scripts/format_lines.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/format_lines.pl</url>
     <popularity>0</popularity>
     <updated>2013-01-17 15:15:42</updated>
     <version>1.5</version>
@@ -5639,7 +5639,7 @@
     <name>stick_buffer</name>
     <language>python</language>
     <tags>buffer,window,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/stick_buffer.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/stick_buffer.py</url>
     <popularity>0</popularity>
     <updated>2017-12-14 08:05:48</updated>
     <version>0.6</version>
@@ -5664,7 +5664,7 @@
     <name>luanma</name>
     <language>perl</language>
     <tags>charset,irc</tags>
-    <url>https://weechat.org/files/scripts/luanma.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/luanma.pl</url>
     <popularity>0</popularity>
     <updated>2013-05-10 09:54:34</updated>
     <version>0.2</version>
@@ -5689,7 +5689,7 @@
     <name>notify_send</name>
     <language>perl</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/notify_send.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/notify_send.pl</url>
     <popularity>0</popularity>
     <updated>2017-04-25 21:38:34</updated>
     <version>1.5</version>
@@ -5714,7 +5714,7 @@
     <name>pushover</name>
     <language>perl</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/pushover.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/pushover.pl</url>
     <popularity>0</popularity>
     <updated>2017-03-19 01:15:52</updated>
     <version>2.0</version>
@@ -5739,7 +5739,7 @@
     <name>cmus</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/cmus.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/cmus.py</url>
     <popularity>0</popularity>
     <updated>2013-09-21 11:28:55</updated>
     <version>1.02</version>
@@ -5764,7 +5764,7 @@
     <name>http_item</name>
     <language>lua</language>
     <tags>item</tags>
-    <url>https://weechat.org/files/scripts/http_item.lua</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/http_item.lua</url>
     <popularity>0</popularity>
     <updated>2013-03-17 16:33:54</updated>
     <version>1</version>
@@ -5789,7 +5789,7 @@
     <name>weemustfeed</name>
     <language>python</language>
     <tags>feed,rss,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/weemustfeed.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weemustfeed.py</url>
     <popularity>0</popularity>
     <updated>2018-11-11 15:29:46</updated>
     <version>0.3</version>
@@ -5814,7 +5814,7 @@
     <name>challengeauth</name>
     <language>ruby</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/challengeauth.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/challengeauth.rb</url>
     <popularity>0</popularity>
     <updated>2013-05-01 14:59:20</updated>
     <version>0.0.1</version>
@@ -5839,7 +5839,7 @@
     <name>weetweet</name>
     <language>python</language>
     <tags>twitter,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/weetweet.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weetweet.py</url>
     <popularity>0</popularity>
     <updated>2018-10-11 23:28:46</updated>
     <version>1.2.9</version>
@@ -5864,7 +5864,7 @@
     <name>stalker</name>
     <language>perl</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/stalker.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/stalker.pl</url>
     <popularity>0</popularity>
     <updated>2018-01-13 20:37:20</updated>
     <version>1.6.1</version>
@@ -5889,7 +5889,7 @@
     <name>spacer</name>
     <language>perl</language>
     <tags>input</tags>
-    <url>https://weechat.org/files/scripts/spacer.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/spacer.pl</url>
     <popularity>0</popularity>
     <updated>2013-05-01 13:34:22</updated>
     <version>0.1</version>
@@ -5914,7 +5914,7 @@
     <name>mass_hl_blocker</name>
     <language>perl</language>
     <tags>highlight</tags>
-    <url>https://weechat.org/files/scripts/mass_hl_blocker.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mass_hl_blocker.pl</url>
     <popularity>0</popularity>
     <updated>2013-05-01 13:39:54</updated>
     <version>0.1</version>
@@ -5939,7 +5939,7 @@
     <name>mnotify</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/mnotify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mnotify.py</url>
     <popularity>0</popularity>
     <updated>2018-04-07 08:09:15</updated>
     <version>0.4</version>
@@ -5964,7 +5964,7 @@
     <name>weeprowl</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/weeprowl.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weeprowl.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:25:24</updated>
     <version>0.7</version>
@@ -5989,7 +5989,7 @@
     <name>url_arza</name>
     <language>perl</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/url_arza.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/url_arza.pl</url>
     <popularity>0</popularity>
     <updated>2013-07-27 15:56:55</updated>
     <version>0.1</version>
@@ -6014,7 +6014,7 @@
     <name>samechannel</name>
     <language>ruby</language>
     <tags>irc,nick</tags>
-    <url>https://weechat.org/files/scripts/samechannel.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/samechannel.rb</url>
     <popularity>0</popularity>
     <updated>2015-12-28 11:30:13</updated>
     <version>0.1</version>
@@ -6039,7 +6039,7 @@
     <name>queryman</name>
     <language>python</language>
     <tags>irc,query,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/queryman.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/queryman.py</url>
     <popularity>0</popularity>
     <updated>2018-08-09 08:19:55</updated>
     <version>0.5</version>
@@ -6064,7 +6064,7 @@
     <name>vimode</name>
     <language>python</language>
     <tags>input,vi,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/vimode.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/vimode.py</url>
     <popularity>0</popularity>
     <updated>2018-09-02 09:03:21</updated>
     <version>0.7</version>
@@ -6089,7 +6089,7 @@
     <name>oldswarner</name>
     <language>lua</language>
     <tags>input,item,url</tags>
-    <url>https://weechat.org/files/scripts/oldswarner.lua</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/oldswarner.lua</url>
     <popularity>0</popularity>
     <updated>2015-09-10 19:07:34</updated>
     <version>2.1</version>
@@ -6114,7 +6114,7 @@
     <name>weespotify</name>
     <language>ruby</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/weespotify.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weespotify.rb</url>
     <popularity>0</popularity>
     <updated>2016-03-25 10:08:26</updated>
     <version>1.1</version>
@@ -6139,7 +6139,7 @@
     <name>tmux_env</name>
     <language>python</language>
     <tags>tmux</tags>
-    <url>https://weechat.org/files/scripts/tmux_env.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/tmux_env.py</url>
     <popularity>0</popularity>
     <updated>2014-02-06 13:52:11</updated>
     <version>2</version>
@@ -6164,7 +6164,7 @@
     <name>sort_servers</name>
     <language>python</language>
     <tags>irc,buffer</tags>
-    <url>https://weechat.org/files/scripts/sort_servers.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/sort_servers.py</url>
     <popularity>0</popularity>
     <updated>2013-10-19 11:32:42</updated>
     <version>0.1</version>
@@ -6189,7 +6189,7 @@
     <name>autosavekey</name>
     <language>python</language>
     <tags>channel,key,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/autosavekey.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/autosavekey.py</url>
     <popularity>0</popularity>
     <updated>2018-05-11 14:29:41</updated>
     <version>0.4</version>
@@ -6214,7 +6214,7 @@
     <name>hl_here</name>
     <language>perl</language>
     <tags>highlight</tags>
-    <url>https://weechat.org/files/scripts/hl_here.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/hl_here.pl</url>
     <popularity>0</popularity>
     <updated>2015-07-25 10:05:16</updated>
     <version>0.2</version>
@@ -6239,7 +6239,7 @@
     <name>undernet_challenge</name>
     <language>ruby</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/undernet_challenge.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/undernet_challenge.rb</url>
     <popularity>0</popularity>
     <updated>2013-10-22 16:20:52</updated>
     <version>0.1.0</version>
@@ -6264,7 +6264,7 @@
     <name>jump_smart_closest</name>
     <language>perl</language>
     <tags>hotlist</tags>
-    <url>https://weechat.org/files/scripts/jump_smart_closest.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/jump_smart_closest.pl</url>
     <popularity>0</popularity>
     <updated>2018-07-08 14:56:07</updated>
     <version>0.3</version>
@@ -6289,7 +6289,7 @@
     <name>irssi_awaylog</name>
     <language>python</language>
     <tags>irc,away,log</tags>
-    <url>https://weechat.org/files/scripts/irssi_awaylog.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/irssi_awaylog.py</url>
     <popularity>0</popularity>
     <updated>2014-05-10 09:14:15</updated>
     <version>0.3</version>
@@ -6314,7 +6314,7 @@
     <name>weatherbot</name>
     <language>python</language>
     <tags>weather</tags>
-    <url>https://weechat.org/files/scripts/weatherbot.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weatherbot.py</url>
     <popularity>0</popularity>
     <updated>2016-10-01 08:20:25</updated>
     <version>0.9</version>
@@ -6339,7 +6339,7 @@
     <name>cmdind</name>
     <language>perl</language>
     <tags>command,input</tags>
-    <url>https://weechat.org/files/scripts/cmdind.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/cmdind.pl</url>
     <popularity>0</popularity>
     <updated>2013-12-02 22:02:39</updated>
     <version>0.1</version>
@@ -6364,7 +6364,7 @@
     <name>substitution</name>
     <language>ruby</language>
     <tags>input</tags>
-    <url>https://weechat.org/files/scripts/substitution.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/substitution.rb</url>
     <popularity>0</popularity>
     <updated>2014-01-14 19:39:40</updated>
     <version>0.0.1</version>
@@ -6389,7 +6389,7 @@
     <name>undernet_totp</name>
     <language>python</language>
     <tags>irc,undernet,totp</tags>
-    <url>https://weechat.org/files/scripts/undernet_totp.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/undernet_totp.py</url>
     <popularity>0</popularity>
     <updated>2018-06-06 22:00:59</updated>
     <version>0.4.0</version>
@@ -6414,7 +6414,7 @@
     <name>autojoinem</name>
     <language>python</language>
     <tags>irc,autojoin,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/autojoinem.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/autojoinem.py</url>
     <popularity>0</popularity>
     <updated>2017-01-08 11:10:12</updated>
     <version>0.6</version>
@@ -6439,7 +6439,7 @@
     <name>weemoticons</name>
     <language>python</language>
     <tags>emoticon</tags>
-    <url>https://weechat.org/files/scripts/weemoticons.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weemoticons.py</url>
     <popularity>0</popularity>
     <updated>2017-01-21 08:13:22</updated>
     <version>0.2</version>
@@ -6464,7 +6464,7 @@
     <name>weetext</name>
     <language>python</language>
     <tags>sms,google</tags>
-    <url>https://weechat.org/files/scripts/weetext.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weetext.py</url>
     <popularity>0</popularity>
     <updated>2014-01-24 21:40:39</updated>
     <version>0.1.2</version>
@@ -6489,7 +6489,7 @@
     <name>autopong</name>
     <language>python</language>
     <tags>ping</tags>
-    <url>https://weechat.org/files/scripts/autopong.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/autopong.py</url>
     <popularity>0</popularity>
     <updated>2015-12-31 12:36:57</updated>
     <version>0.2</version>
@@ -6514,7 +6514,7 @@
     <name>pastebuf</name>
     <language>lua</language>
     <tags>pastebin</tags>
-    <url>https://weechat.org/files/scripts/pastebuf.lua</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/pastebuf.lua</url>
     <popularity>0</popularity>
     <updated>2014-04-21 07:52:30</updated>
     <version>0.3</version>
@@ -6539,7 +6539,7 @@
     <name>autosort</name>
     <language>python</language>
     <tags>irc,buffer,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/autosort.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/autosort.py</url>
     <popularity>0</popularity>
     <updated>2017-11-13 09:27:37</updated>
     <version>3.3</version>
@@ -6564,7 +6564,7 @@
     <name>shutup</name>
     <language>python</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/shutup.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/shutup.py</url>
     <popularity>0</popularity>
     <updated>2014-04-19 20:46:49</updated>
     <version>0.2</version>
@@ -6589,7 +6589,7 @@
     <name>responsive_layout</name>
     <language>python</language>
     <tags>layout,terminal</tags>
-    <url>https://weechat.org/files/scripts/responsive_layout.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/responsive_layout.py</url>
     <popularity>0</popularity>
     <updated>2014-03-07 19:10:47</updated>
     <version>0.7</version>
@@ -6614,7 +6614,7 @@
     <name>axolotl</name>
     <language>python</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/axolotl.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/axolotl.py</url>
     <popularity>0</popularity>
     <updated>2016-02-28 18:59:09</updated>
     <version>0.1.0</version>
@@ -6639,7 +6639,7 @@
     <name>btc_ticker</name>
     <language>python</language>
     <tags>bitcoin,currency,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/btc_ticker.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/btc_ticker.py</url>
     <popularity>0</popularity>
     <updated>2018-07-29 09:30:19</updated>
     <version>2.1.0</version>
@@ -6664,7 +6664,7 @@
     <name>clemy</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/clemy.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/clemy.py</url>
     <popularity>0</popularity>
     <updated>2014-05-18 12:00:54</updated>
     <version>0.1.1</version>
@@ -6689,7 +6689,7 @@
     <name>countdown</name>
     <language>ruby</language>
     <tags>countdown</tags>
-    <url>https://weechat.org/files/scripts/countdown.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/countdown.rb</url>
     <popularity>0</popularity>
     <updated>2014-05-05 08:00:20</updated>
     <version>0.0.2</version>
@@ -6714,7 +6714,7 @@
     <name>ws_replace</name>
     <language>python</language>
     <tags>input</tags>
-    <url>https://weechat.org/files/scripts/ws_replace.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/ws_replace.py</url>
     <popularity>0</popularity>
     <updated>2015-03-22 19:09:39</updated>
     <version>0.1</version>
@@ -6739,7 +6739,7 @@
     <name>auth</name>
     <language>ruby</language>
     <tags>irc,sasl</tags>
-    <url>https://weechat.org/files/scripts/auth.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/auth.rb</url>
     <popularity>0</popularity>
     <updated>2014-05-30 09:30:02</updated>
     <version>0.3</version>
@@ -6764,7 +6764,7 @@
     <name>mnick</name>
     <language>perl</language>
     <tags>irc,nick</tags>
-    <url>https://weechat.org/files/scripts/mnick.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mnick.pl</url>
     <popularity>0</popularity>
     <updated>2016-06-25 14:13:43</updated>
     <version>0.3</version>
@@ -6789,7 +6789,7 @@
     <name>urlselect</name>
     <language>lua</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/urlselect.lua</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/urlselect.lua</url>
     <popularity>0</popularity>
     <updated>2014-09-06 08:25:26</updated>
     <version>0.4</version>
@@ -6814,7 +6814,7 @@
     <name>url_hinter</name>
     <language>ruby</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/url_hinter.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/url_hinter.rb</url>
     <popularity>0</popularity>
     <updated>2017-11-26 10:50:44</updated>
     <version>0.41</version>
@@ -6839,7 +6839,7 @@
     <name>triggerreply</name>
     <language>python</language>
     <tags>reply</tags>
-    <url>https://weechat.org/files/scripts/triggerreply.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/triggerreply.py</url>
     <popularity>0</popularity>
     <updated>2018-04-06 21:52:48</updated>
     <version>0.3</version>
@@ -6864,7 +6864,7 @@
     <name>emote</name>
     <language>guile</language>
     <tags>emoticon</tags>
-    <url>https://weechat.org/files/scripts/emote.scm</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/emote.scm</url>
     <popularity>0</popularity>
     <updated>2017-02-19 07:54:48</updated>
     <version>0.3</version>
@@ -6889,7 +6889,7 @@
     <name>xfer_scp</name>
     <language>python</language>
     <tags>xfer,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/xfer_scp.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/xfer_scp.py</url>
     <popularity>0</popularity>
     <updated>2017-03-18 16:36:48</updated>
     <version>1.0.5</version>
@@ -6914,7 +6914,7 @@
     <name>socket_notify</name>
     <language>ruby</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/socket_notify.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/socket_notify.rb</url>
     <popularity>0</popularity>
     <updated>2015-03-22 22:00:50</updated>
     <version>0.0.1</version>
@@ -6939,7 +6939,7 @@
     <name>colorizer</name>
     <language>ruby</language>
     <tags>color</tags>
-    <url>https://weechat.org/files/scripts/colorizer.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/colorizer.rb</url>
     <popularity>0</popularity>
     <updated>2015-03-22 22:10:11</updated>
     <version>0.1</version>
@@ -6964,7 +6964,7 @@
     <name>smile</name>
     <language>python</language>
     <tags>emoticon</tags>
-    <url>https://weechat.org/files/scripts/smile.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/smile.py</url>
     <popularity>0</popularity>
     <updated>2015-03-22 22:19:43</updated>
     <version>0.1</version>
@@ -6989,7 +6989,7 @@
     <name>bitlbee_completion</name>
     <language>python</language>
     <tags>bitlbee,completion</tags>
-    <url>https://weechat.org/files/scripts/bitlbee_completion.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/bitlbee_completion.py</url>
     <popularity>0</popularity>
     <updated>2016-01-13 07:52:15</updated>
     <version>0.2</version>
@@ -7014,7 +7014,7 @@
     <name>beinc</name>
     <language>python</language>
     <tags>notify,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/beinc.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/beinc.py</url>
     <popularity>0</popularity>
     <updated>2019-01-12 16:50:40</updated>
     <version>3.0</version>
@@ -7039,7 +7039,7 @@
     <name>fullwidth</name>
     <language>python</language>
     <tags>text,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/fullwidth.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/fullwidth.py</url>
     <popularity>0</popularity>
     <updated>2019-01-12 17:08:58</updated>
     <version>0.1.1</version>
@@ -7064,7 +7064,7 @@
     <name>deadbeef_np</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/deadbeef_np.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/deadbeef_np.py</url>
     <popularity>0</popularity>
     <updated>2015-06-14 09:04:50</updated>
     <version>0.9</version>
@@ -7089,7 +7089,7 @@
     <name>slack</name>
     <language>python</language>
     <tags>slack</tags>
-    <url>https://weechat.org/files/scripts/slack.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/slack.py</url>
     <popularity>0</popularity>
     <updated>2018-11-12 22:57:06</updated>
     <version>2.2.0</version>
@@ -7114,7 +7114,7 @@
     <name>mpris2_np</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/mpris2_np.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mpris2_np.py</url>
     <popularity>0</popularity>
     <updated>2015-03-31 18:51:33</updated>
     <version>0.4.3</version>
@@ -7139,7 +7139,7 @@
     <name>ircrypt</name>
     <language>python</language>
     <tags>irc,crypto</tags>
-    <url>https://weechat.org/files/scripts/ircrypt.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/ircrypt.py</url>
     <popularity>0</popularity>
     <updated>2016-04-09 15:43:40</updated>
     <version>1.0</version>
@@ -7164,7 +7164,7 @@
     <name>automarkbuffer</name>
     <language>python</language>
     <tags>buffer,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/automarkbuffer.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/automarkbuffer.py</url>
     <popularity>0</popularity>
     <updated>2015-03-31 18:56:00</updated>
     <version>1.0</version>
@@ -7189,7 +7189,7 @@
     <name>hatwidget</name>
     <language>python</language>
     <tags>irc,item,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/hatwidget.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/hatwidget.py</url>
     <popularity>0</popularity>
     <updated>2015-07-25 09:34:36</updated>
     <version>1.1</version>
@@ -7214,7 +7214,7 @@
     <name>unread_buffer</name>
     <language>python</language>
     <tags>buffer,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/unread_buffer.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/unread_buffer.py</url>
     <popularity>0</popularity>
     <updated>2018-06-07 21:45:31</updated>
     <version>2</version>
@@ -7239,7 +7239,7 @@
     <name>sort_arza</name>
     <language>perl</language>
     <tags>irc,buffer</tags>
-    <url>https://weechat.org/files/scripts/sort_arza.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/sort_arza.pl</url>
     <popularity>0</popularity>
     <updated>2015-06-14 12:37:03</updated>
     <version>1</version>
@@ -7264,7 +7264,7 @@
     <name>dzen_notifier</name>
     <language>perl</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/dzen_notifier.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/dzen_notifier.pl</url>
     <popularity>0</popularity>
     <updated>2015-06-14 12:53:42</updated>
     <version>0.2</version>
@@ -7289,7 +7289,7 @@
     <name>weestreamer</name>
     <language>python</language>
     <tags>streamlink</tags>
-    <url>https://weechat.org/files/scripts/weestreamer.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weestreamer.py</url>
     <popularity>0</popularity>
     <updated>2017-03-19 01:25:05</updated>
     <version>0.4.2</version>
@@ -7314,7 +7314,7 @@
     <name>commorkers</name>
     <language>perl</language>
     <tags>irc,clone</tags>
-    <url>https://weechat.org/files/scripts/commorkers.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/commorkers.pl</url>
     <popularity>0</popularity>
     <updated>2015-06-22 21:06:08</updated>
     <version>0.2</version>
@@ -7339,7 +7339,7 @@
     <name>grep_filter</name>
     <language>python</language>
     <tags>filter,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/grep_filter.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/grep_filter.py</url>
     <popularity>0</popularity>
     <updated>2016-04-09 21:48:40</updated>
     <version>0.9</version>
@@ -7364,7 +7364,7 @@
     <name>autospurdo</name>
     <language>javascript</language>
     <tags>spurdo</tags>
-    <url>https://weechat.org/files/scripts/autospurdo.js</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/autospurdo.js</url>
     <popularity>0</popularity>
     <updated>2016-04-09 16:21:12</updated>
     <version>1.0</version>
@@ -7389,7 +7389,7 @@
     <name>win_scroll_screen</name>
     <language>python</language>
     <tags>window</tags>
-    <url>https://weechat.org/files/scripts/win_scroll_screen.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/win_scroll_screen.py</url>
     <popularity>0</popularity>
     <updated>2016-04-09 17:34:50</updated>
     <version>1</version>
@@ -7414,7 +7414,7 @@
     <name>chancomp</name>
     <language>python</language>
     <tags>irc,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/chancomp.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/chancomp.py</url>
     <popularity>0</popularity>
     <updated>2016-04-09 22:10:54</updated>
     <version>1.1</version>
@@ -7439,7 +7439,7 @@
     <name>emoji_aliases</name>
     <language>python</language>
     <tags>emoji</tags>
-    <url>https://weechat.org/files/scripts/emoji_aliases.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/emoji_aliases.py</url>
     <popularity>0</popularity>
     <updated>2016-10-01 08:01:17</updated>
     <version>1.0.2</version>
@@ -7464,7 +7464,7 @@
     <name>karmastorm</name>
     <language>guile</language>
     <tags>karma</tags>
-    <url>https://weechat.org/files/scripts/karmastorm.scm</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/karmastorm.scm</url>
     <popularity>0</popularity>
     <updated>2016-04-10 10:18:33</updated>
     <version>0.3</version>
@@ -7489,7 +7489,7 @@
     <name>whowas_timeago</name>
     <language>python</language>
     <tags>irc,whowas,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/whowas_timeago.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/whowas_timeago.py</url>
     <popularity>0</popularity>
     <updated>2016-04-24 09:43:27</updated>
     <version>1.2</version>
@@ -7514,7 +7514,7 @@
     <name>maskmatch</name>
     <language>python</language>
     <tags>irc,mode,mask,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/maskmatch.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/maskmatch.py</url>
     <popularity>0</popularity>
     <updated>2016-11-05 11:33:36</updated>
     <version>1.4</version>
@@ -7539,7 +7539,7 @@
     <name>whatsapp</name>
     <language>python</language>
     <tags>whatsapp</tags>
-    <url>https://weechat.org/files/scripts/whatsapp.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/whatsapp.py</url>
     <popularity>0</popularity>
     <updated>2017-05-08 14:04:51</updated>
     <version>0.1</version>
@@ -7564,7 +7564,7 @@
     <name>lastfm2</name>
     <language>python</language>
     <tags>music</tags>
-    <url>https://weechat.org/files/scripts/lastfm2.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/lastfm2.py</url>
     <popularity>0</popularity>
     <updated>2017-05-08 17:55:27</updated>
     <version>0.1</version>
@@ -7589,7 +7589,7 @@
     <name>cleanbuffer</name>
     <language>ruby</language>
     <tags>buffer,znc</tags>
-    <url>https://weechat.org/files/scripts/cleanbuffer.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/cleanbuffer.rb</url>
     <popularity>0</popularity>
     <updated>2017-05-08 17:59:13</updated>
     <version>0.1</version>
@@ -7614,7 +7614,7 @@
     <name>notifym</name>
     <language>perl</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/notifym.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/notifym.pl</url>
     <popularity>0</popularity>
     <updated>2017-05-08 16:27:47</updated>
     <version>1.1</version>
@@ -7639,7 +7639,7 @@
     <name>mop</name>
     <language>python</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/mop.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mop.py</url>
     <popularity>0</popularity>
     <updated>2016-10-29 08:36:46</updated>
     <version>0.1</version>
@@ -7664,7 +7664,7 @@
     <name>emoji</name>
     <language>lua</language>
     <tags>emoji</tags>
-    <url>https://weechat.org/files/scripts/emoji.lua</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/emoji.lua</url>
     <popularity>0</popularity>
     <updated>2017-10-28 08:53:34</updated>
     <version>4</version>
@@ -7689,7 +7689,7 @@
     <name>notification</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/notification.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/notification.py</url>
     <popularity>0</popularity>
     <updated>2017-05-08 17:36:37</updated>
     <version>1</version>
@@ -7714,7 +7714,7 @@
     <name>terminal_title</name>
     <language>python</language>
     <tags>terminal</tags>
-    <url>https://weechat.org/files/scripts/terminal_title.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/terminal_title.py</url>
     <popularity>0</popularity>
     <updated>2017-05-08 21:09:19</updated>
     <version>1</version>
@@ -7739,7 +7739,7 @@
     <name>emoji2alias</name>
     <language>python</language>
     <tags>emoji</tags>
-    <url>https://weechat.org/files/scripts/emoji2alias.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/emoji2alias.py</url>
     <popularity>0</popularity>
     <updated>2016-10-29 08:48:32</updated>
     <version>0.1</version>
@@ -7764,7 +7764,7 @@
     <name>atcomplete</name>
     <language>perl</language>
     <tags>irc,nick</tags>
-    <url>https://weechat.org/files/scripts/atcomplete.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/atcomplete.pl</url>
     <popularity>0</popularity>
     <updated>2016-10-29 09:06:36</updated>
     <version>0.001</version>
@@ -7789,7 +7789,7 @@
     <name>buffer_dmenu</name>
     <language>python</language>
     <tags>dmenu,rofi</tags>
-    <url>https://weechat.org/files/scripts/buffer_dmenu.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/buffer_dmenu.py</url>
     <popularity>0</popularity>
     <updated>2017-05-07 16:39:50</updated>
     <version>0.1.1</version>
@@ -7814,7 +7814,7 @@
     <name>mqtt_notify</name>
     <language>python</language>
     <tags>notify,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/mqtt_notify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mqtt_notify.py</url>
     <popularity>0</popularity>
     <updated>2018-06-02 17:10:52</updated>
     <version>0.5</version>
@@ -7839,7 +7839,7 @@
     <name>unhighlight</name>
     <language>python</language>
     <tags>highlight</tags>
-    <url>https://weechat.org/files/scripts/unhighlight.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/unhighlight.py</url>
     <popularity>0</popularity>
     <updated>2017-12-14 08:06:56</updated>
     <version>0.1.1</version>
@@ -7864,7 +7864,7 @@
     <name>mpv</name>
     <language>python</language>
     <tags>video</tags>
-    <url>https://weechat.org/files/scripts/mpv.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/mpv.py</url>
     <popularity>0</popularity>
     <updated>2016-11-05 07:04:32</updated>
     <version>0.1</version>
@@ -7889,7 +7889,7 @@
     <name>buffer_bind</name>
     <language>python</language>
     <tags>buffer,key</tags>
-    <url>https://weechat.org/files/scripts/buffer_bind.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/buffer_bind.py</url>
     <popularity>0</popularity>
     <updated>2017-05-08 18:11:50</updated>
     <version>1.0</version>
@@ -7914,7 +7914,7 @@
     <name>latex_unicode</name>
     <language>python</language>
     <tags>latex,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/latex_unicode.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/latex_unicode.py</url>
     <popularity>0</popularity>
     <updated>2018-06-19 21:35:58</updated>
     <version>1.0</version>
@@ -7939,7 +7939,7 @@
     <name>jisearch</name>
     <language>python</language>
     <tags>translate,kanji</tags>
-    <url>https://weechat.org/files/scripts/jisearch.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/jisearch.py</url>
     <popularity>0</popularity>
     <updated>2016-10-30 11:02:24</updated>
     <version>0.1</version>
@@ -7964,7 +7964,7 @@
     <name>twitch</name>
     <language>python</language>
     <tags>twitch,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/twitch.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/twitch.py</url>
     <popularity>0</popularity>
     <updated>2018-06-06 20:59:31</updated>
     <version>0.5</version>
@@ -7989,7 +7989,7 @@
     <name>nick_complete_wrapper</name>
     <language>lua</language>
     <tags>nick</tags>
-    <url>https://weechat.org/files/scripts/nick_complete_wrapper.lua</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/nick_complete_wrapper.lua</url>
     <popularity>0</popularity>
     <updated>2016-10-30 16:02:41</updated>
     <version>0.1</version>
@@ -8014,7 +8014,7 @@
     <name>url_olde</name>
     <language>python</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/url_olde.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/url_olde.py</url>
     <popularity>0</popularity>
     <updated>2017-04-25 22:03:13</updated>
     <version>0.6</version>
@@ -8039,7 +8039,7 @@
     <name>zncplayback</name>
     <language>python</language>
     <tags>irc,znc</tags>
-    <url>https://weechat.org/files/scripts/zncplayback.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/zncplayback.py</url>
     <popularity>0</popularity>
     <updated>2016-10-30 16:20:10</updated>
     <version>0.1.0</version>
@@ -8064,7 +8064,7 @@
     <name>gateway_rename</name>
     <language>guile</language>
     <tags>irc</tags>
-    <url>https://weechat.org/files/scripts/gateway_rename.scm</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/gateway_rename.scm</url>
     <popularity>0</popularity>
     <updated>2017-04-06 20:52:40</updated>
     <version>1.2.1</version>
@@ -8089,7 +8089,7 @@
     <name>zncnotice</name>
     <language>python</language>
     <tags>irc,znc</tags>
-    <url>https://weechat.org/files/scripts/zncnotice.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/zncnotice.py</url>
     <popularity>0</popularity>
     <updated>2016-10-30 18:24:59</updated>
     <version>1.0.0</version>
@@ -8114,7 +8114,7 @@
     <name>aformat</name>
     <language>python</language>
     <tags>format,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/aformat.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/aformat.py</url>
     <popularity>0</popularity>
     <updated>2018-06-21 22:13:42</updated>
     <version>0.2</version>
@@ -8139,7 +8139,7 @@
     <name>buffzilla</name>
     <language>ruby</language>
     <tags>buffer</tags>
-    <url>https://weechat.org/files/scripts/buffzilla.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/buffzilla.rb</url>
     <popularity>0</popularity>
     <updated>2016-10-30 20:16:01</updated>
     <version>0.1</version>
@@ -8164,7 +8164,7 @@
     <name>tictactoe</name>
     <language>python</language>
     <tags>game,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/tictactoe.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/tictactoe.py</url>
     <popularity>0</popularity>
     <updated>2016-10-22 14:27:34</updated>
     <version>0.1</version>
@@ -8189,7 +8189,7 @@
     <name>xfer_run_command</name>
     <language>python</language>
     <tags>xfer</tags>
-    <url>https://weechat.org/files/scripts/xfer_run_command.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/xfer_run_command.py</url>
     <popularity>0</popularity>
     <updated>2016-10-30 20:20:48</updated>
     <version>0.1</version>
@@ -8214,7 +8214,7 @@
     <name>gnome_screensaver_away</name>
     <language>python</language>
     <tags>away</tags>
-    <url>https://weechat.org/files/scripts/gnome_screensaver_away.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/gnome_screensaver_away.py</url>
     <popularity>0</popularity>
     <updated>2017-01-01 14:43:14</updated>
     <version>0.2.0</version>
@@ -8239,7 +8239,7 @@
     <name>inverter</name>
     <language>tcl</language>
     <tags>input</tags>
-    <url>https://weechat.org/files/scripts/inverter.tcl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/inverter.tcl</url>
     <popularity>0</popularity>
     <updated>2017-01-01 15:13:04</updated>
     <version>0.1</version>
@@ -8264,7 +8264,7 @@
     <name>weechataboo</name>
     <language>guile</language>
     <tags>emoticon</tags>
-    <url>https://weechat.org/files/scripts/weechataboo.scm</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weechataboo.scm</url>
     <popularity>0</popularity>
     <updated>2018-12-02 09:08:30</updated>
     <version>0.1.2</version>
@@ -8289,7 +8289,7 @@
     <name>tts</name>
     <language>python</language>
     <tags>tts,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/tts.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/tts.py</url>
     <popularity>0</popularity>
     <updated>2017-06-08 07:02:20</updated>
     <version>0.2.1</version>
@@ -8314,7 +8314,7 @@
     <name>force_nick</name>
     <language>python</language>
     <tags>irc,nick,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/force_nick.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/force_nick.py</url>
     <popularity>0</popularity>
     <updated>2018-06-19 21:33:49</updated>
     <version>0.5</version>
@@ -8339,7 +8339,7 @@
     <name>detach_away</name>
     <language>python</language>
     <tags>away</tags>
-    <url>https://weechat.org/files/scripts/detach_away.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/detach_away.py</url>
     <popularity>0</popularity>
     <updated>2017-05-08 21:13:59</updated>
     <version>0.1.0</version>
@@ -8364,7 +8364,7 @@
     <name>pushjet</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/pushjet.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/pushjet.py</url>
     <popularity>0</popularity>
     <updated>2017-05-08 21:17:15</updated>
     <version>0.1.0</version>
@@ -8389,7 +8389,7 @@
     <name>pushsafer</name>
     <language>ruby</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/pushsafer.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/pushsafer.rb</url>
     <popularity>0</popularity>
     <updated>2017-05-08 21:21:52</updated>
     <version>0.1</version>
@@ -8414,7 +8414,7 @@
     <name>automerge</name>
     <language>python</language>
     <tags>buffer</tags>
-    <url>https://weechat.org/files/scripts/automerge.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/automerge.py</url>
     <popularity>0</popularity>
     <updated>2018-03-03 10:14:30</updated>
     <version>0.2</version>
@@ -8439,7 +8439,7 @@
     <name>giphy</name>
     <language>python</language>
     <tags>gif,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/giphy.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/giphy.py</url>
     <popularity>0</popularity>
     <updated>2018-11-11 15:42:28</updated>
     <version>1.0.2</version>
@@ -8464,7 +8464,7 @@
     <name>autoconf</name>
     <language>python</language>
     <tags>config,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/autoconf.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/autoconf.py</url>
     <popularity>0</popularity>
     <updated>2018-11-04 16:27:18</updated>
     <version>0.3</version>
@@ -8489,7 +8489,7 @@
     <name>gribble</name>
     <language>python</language>
     <tags>gribble,bitcoin,otc,exchange</tags>
-    <url>https://weechat.org/files/scripts/gribble.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/gribble.py</url>
     <popularity>0</popularity>
     <updated>2017-06-04 16:39:05</updated>
     <version>0.1</version>
@@ -8514,7 +8514,7 @@
     <name>i3lock_away</name>
     <language>python</language>
     <tags>i3,i3lock,away,irc</tags>
-    <url>https://weechat.org/files/scripts/i3lock_away.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/i3lock_away.py</url>
     <popularity>0</popularity>
     <updated>2017-06-10 19:41:49</updated>
     <version>0.1</version>
@@ -8539,7 +8539,7 @@
     <name>teknik</name>
     <language>python</language>
     <tags>teknik</tags>
-    <url>https://weechat.org/files/scripts/teknik.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/teknik.py</url>
     <popularity>0</popularity>
     <updated>2017-10-14 08:53:12</updated>
     <version>1.0.0</version>
@@ -8564,7 +8564,7 @@
     <name>buffer_autohide</name>
     <language>python</language>
     <tags>buffer,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/buffer_autohide.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/buffer_autohide.py</url>
     <popularity>0</popularity>
     <updated>2019-01-12 17:03:52</updated>
     <version>0.3</version>
@@ -8589,7 +8589,7 @@
     <name>emojis</name>
     <language>python</language>
     <tags>emoji</tags>
-    <url>https://weechat.org/files/scripts/emojis.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/emojis.py</url>
     <popularity>0</popularity>
     <updated>2018-04-02 11:38:45</updated>
     <version>0.1</version>
@@ -8614,7 +8614,7 @@
     <name>autobump</name>
     <language>python</language>
     <tags>buffer</tags>
-    <url>https://weechat.org/files/scripts/autobump.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/autobump.py</url>
     <popularity>0</popularity>
     <updated>2018-09-21 00:23:06</updated>
     <version>0.0.1</version>
@@ -8639,7 +8639,7 @@
     <name>xdccq</name>
     <language>python</language>
     <tags>dcc</tags>
-    <url>https://weechat.org/files/scripts/xdccq.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/xdccq.py</url>
     <popularity>0</popularity>
     <updated>2018-09-23 13:46:19</updated>
     <version>0.1.1</version>
@@ -8664,7 +8664,7 @@
     <name>url_hint</name>
     <language>python</language>
     <tags>url</tags>
-    <url>https://weechat.org/files/scripts/url_hint.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/url_hint.py</url>
     <popularity>0</popularity>
     <updated>2018-09-21 21:21:05</updated>
     <version>0.6</version>
@@ -8689,7 +8689,7 @@
     <name>foo</name>
     <language>perl</language>
     <tags>crypto,rot</tags>
-    <url>https://weechat.org/files/scripts/foo.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/foo.pl</url>
     <popularity>0</popularity>
     <updated>2018-09-21 01:02:38</updated>
     <version>3.00</version>
@@ -8714,7 +8714,7 @@
     <name>autonickprefix</name>
     <language>perl</language>
     <tags>irc,nick</tags>
-    <url>https://weechat.org/files/scripts/autonickprefix.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/autonickprefix.pl</url>
     <popularity>0</popularity>
     <updated>2018-09-21 01:07:25</updated>
     <version>1.00</version>
@@ -8739,7 +8739,7 @@
     <name>ctrl_w</name>
     <language>perl</language>
     <tags>input</tags>
-    <url>https://weechat.org/files/scripts/ctrl_w.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/ctrl_w.pl</url>
     <popularity>0</popularity>
     <updated>2018-09-21 01:11:23</updated>
     <version>1.00</version>
@@ -8764,7 +8764,7 @@
     <name>topicdiff_alt</name>
     <language>python</language>
     <tags>irc,topic</tags>
-    <url>https://weechat.org/files/scripts/topicdiff_alt.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/topicdiff_alt.py</url>
     <popularity>0</popularity>
     <updated>2018-09-21 01:16:18</updated>
     <version>1.01</version>
@@ -8789,7 +8789,7 @@
     <name>execbot</name>
     <language>python</language>
     <tags>irc,exec</tags>
-    <url>https://weechat.org/files/scripts/execbot.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/execbot.py</url>
     <popularity>0</popularity>
     <updated>2018-09-29 08:22:46</updated>
     <version>1.1</version>
@@ -8814,7 +8814,7 @@
     <name>pv_info</name>
     <language>perl</language>
     <tags>irc,whois</tags>
-    <url>https://weechat.org/files/scripts/pv_info.pl</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/pv_info.pl</url>
     <popularity>0</popularity>
     <updated>2018-09-21 01:27:27</updated>
     <version>0.0.5</version>
@@ -8839,7 +8839,7 @@
     <name>weepushover</name>
     <language>python</language>
     <tags>notify</tags>
-    <url>https://weechat.org/files/scripts/weepushover.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weepushover.py</url>
     <popularity>0</popularity>
     <updated>2018-09-21 01:33:31</updated>
     <version>0.1</version>
@@ -8864,7 +8864,7 @@
     <name>chanotify</name>
     <language>python</language>
     <tags>notify,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/chanotify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/chanotify.py</url>
     <popularity>0</popularity>
     <updated>2018-11-11 16:07:46</updated>
     <version>0.1.0</version>
@@ -8889,7 +8889,7 @@
     <name>selfcensor</name>
     <language>python</language>
     <tags>input,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/selfcensor.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/selfcensor.py</url>
     <popularity>0</popularity>
     <updated>2018-09-21 01:45:28</updated>
     <version>0.1</version>
@@ -8914,7 +8914,7 @@
     <name>weenotify</name>
     <language>python</language>
     <tags>notify,py3k-ok</tags>
-    <url>https://weechat.org/files/scripts/weenotify.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/weenotify.py</url>
     <popularity>0</popularity>
     <updated>2018-11-11 16:33:27</updated>
     <version>0.4</version>
@@ -8939,7 +8939,7 @@
     <name>pushbullet</name>
     <language>ruby</language>
     <tags>notify,sms</tags>
-    <url>https://weechat.org/files/scripts/pushbullet.rb</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/pushbullet.rb</url>
     <popularity>0</popularity>
     <updated>2018-11-11 16:15:44</updated>
     <version>1.0</version>
@@ -8964,7 +8964,7 @@
     <name>telnot</name>
     <language>python</language>
     <tags>notify,telegram</tags>
-    <url>https://weechat.org/files/scripts/telnot.py</url>
+    <url>https://raw.githubusercontent.com/vladdd183/scripts/master/all/telnot.py</url>
     <popularity>0</popularity>
     <updated>2018-12-14 21:17:09</updated>
     <version>1.0</version>
